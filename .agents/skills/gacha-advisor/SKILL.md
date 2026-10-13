@@ -16,7 +16,7 @@ Paths below resolve from this Skill directory to the existing workspace root. Re
 - [gacha-game-advisor.md](../../../gacha-game-advisor.md) — ChatGPT behavior and research policy.
 - [account-snapshots.md](../../../account-snapshots.md) — user-reported ownership, builds, teams and unknowns.
 - [equipment-stat-reference.md](../../../equipment-stat-reference.md) — historical stat legality, sources and verification caveats.
-- [README.md](../../../README.md) — installation, manual source updates and regression criteria.
+- [README.md](../../../README.md) — installation, chat organization and manual source updates.
 
 This workflow covers Markdown maintenance and recommendation review. MCP, standalone chatbot, APIs, backend, frontend, databases and Python applications remain outside this phase. A review request does not authorize updating the live ChatGPT Project or messaging another chat.
 
@@ -29,7 +29,7 @@ This workflow covers Markdown maintenance and recommendation review. MCP, standa
 5. **For recommendation reviews, analyze the specific team:** field time, application, buffs/debuffs, triggers, energy, constraints, realistic rotation, and replacements already owned. Do not require a team analysis for a simple account-data update.
 6. **Avoid invented details:** never fabricate sources, numerical gains, input sequences, stat availability, account inventory or pull probabilities.
 7. **Write focused changes:** keep the behavior prompt below 8,000 characters, put stable mechanics in equipment reference, put ownership only in snapshots.
-8. **Quality check:** inspect the actual diff, verify local references/frontmatter and count all advisor characters, including whitespace. Check applicable README criteria against the documents. Run live ChatGPT regression cases only when the configured Project is accessible and current; otherwise mark them pending. Do not claim a document review proves live response quality.
+8. **Quality check:** inspect the actual diff, verify local references/frontmatter and count all advisor characters, including whitespace. Check applicable [quality criteria](../../../docs/quality-checks.md) against the documents. Run live ChatGPT cases only when requested and when the configured Project is accessible and current; report only cases actually run. Unexecuted cases are not mandatory pending work. Do not claim a document review proves live response quality.
 
 ## Example regressions
 
@@ -41,4 +41,4 @@ This workflow covers Markdown maintenance and recommendation review. MCP, standa
 
 ## Output for repo changes
 
-Summarize edited files with the actual diff, verified facts, unresolved questions, local versus pending live checks, length of advisor instructions, and exact manual steps needed to refresh the ChatGPT Project. If Git metadata is absent, report it and compare file contents without initializing/resetting Git unless explicitly requested. Do not claim the Codex workspace and the ChatGPT Project synchronize.
+Summarize edited files with the actual diff, verified facts, unresolved questions, local checks versus any live cases actually run, length of advisor instructions, and exact manual steps needed to refresh the ChatGPT Project. If Git metadata is absent, report it and compare file contents without initializing/resetting Git unless explicitly requested. Do not claim the Codex workspace and the ChatGPT Project synchronize.

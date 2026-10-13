@@ -1,3 +1,5 @@
-# Local artifacts from the completed incremental review.
-/gacha-advisor-incremental.patch
-/gacha-advisor-incremental-review.diff
+# Local credentials and raw exports do not belong in this public repository.
+.env
+.env.*
+!.env.example
+/exports/

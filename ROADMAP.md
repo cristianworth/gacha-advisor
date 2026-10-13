@@ -1,6 +1,6 @@
 # Gacha Advisor — próximos passos
 
-Proposta de prioridades em 2026-10-12. A base documental e a Skill já estão no repositório público [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor). Os passos abaixo são sugestões; não representam dados de conta confirmados nem funcionalidades implementadas.
+Proposta inicial em 2026-10-12; organização e pesquisa atualizadas em **2026-10-13**. A base documental e a Skill já estão no repositório público [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor). Os passos abaixo são sugestões; não representam dados de conta confirmados nem funcionalidades implementadas.
 
 ## Sugestão para começar
 
@@ -37,10 +37,12 @@ As primeiras duas prioridades podem ser feitas juntas, com os dados disponíveis
 1. Informe uma aquisição, mudança de investimento ou objetivo quando achar relevante. O Codex atualiza apenas os campos afetados no documento adequado, preservando origem e dados anteriores ainda válidos.
 2. Se uma pergunta depender de mecânica atual, pesquise essa mecânica e registre a fonte na referência. Não é necessário revisar todos os jogos a cada patch.
 3. Versione as alterações desejadas no Git. O README explica quais arquivos atualizar manualmente no Projeto ChatGPT; enviar ao GitHub não atualiza o Projeto.
-4. Use o checklist do README somente se quiser investigar um erro ou conferir uma mudança importante. Não há rotina obrigatória de testes no ChatGPT nem necessidade de comparar interfaces.
+4. Use o [checklist opcional](docs/quality-checks.md) somente se quiser investigar um erro ou conferir uma mudança importante. Não há rotina obrigatória de testes no ChatGPT nem necessidade de comparar interfaces.
 
 `ROADMAP.md`, `AGENTS.md` e a Skill são documentos de manutenção. No Projeto ChatGPT, continue usando `gacha-game-advisor.md` nas instruções e `equipment-stat-reference.md` + `account-snapshots.md` como fontes.
 
 ## Ideias adiadas
 
-Sincronização automática, MCP, chatbot próprio, APIs, backend, frontend, banco de dados e aplicação Python continuam fora desta fase. Só vale reconsiderar automação se a atualização manual se tornar um problema frequente e você pedir essa mudança. O próximo ganho esperado vem de contexto melhor e correções fundamentadas nos documentos existentes.
+O usuário iniciou a discussão de uma importação HoYoLAB sob demanda. A [pesquisa e proposta](docs/hoyolab-import.md) agora registra o reaproveitamento possível da autenticação usada no Auto-Checkin, começando por ZZZ. Ainda faltam uma consulta autenticada válida e a conferência dos dados retornados antes de implementar qualquer importador.
+
+Sincronização automática com o ChatGPT, MCP, chatbot próprio, APIs próprias, backend, frontend, banco de dados e aplicação Python continuam adiados. Uma futura função de importação sob demanda poderá alimentar o snapshot; a arquitetura documental e o envio manual ao Projeto permanecem.
