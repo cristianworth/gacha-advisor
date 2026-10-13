@@ -1,6 +1,6 @@
 # Handoff for Codex — Gacha Advisor, Phase 1 (no app development)
 
-You are continuing the existing Gacha Advisor workspace. The current architecture is the ChatGPT Project `gacha` for recommendations, Markdown knowledge intended for Git versioning, `AGENTS.md` for Codex repository instructions, and `.agents/skills/gacha-advisor/SKILL.md` for Codex maintenance/review. Preserve completed work; do not create another project, initialize/reset Git, or replace the knowledge files with an older starter kit.
+You are continuing the existing Gacha Advisor workspace. The current architecture is the ChatGPT Project `gacha` for recommendations, Git-versioned Markdown knowledge, `AGENTS.md` for Codex repository instructions, and `.agents/skills/gacha-advisor/SKILL.md` for Codex maintenance/review. Preserve completed work; do not create another project, reinitialize/reset Git, or replace the knowledge files with an older starter kit.
 
 ## Scope — strictly limited
 
@@ -16,7 +16,9 @@ Read `AGENTS.md` and use `.agents/skills/gacha-advisor/SKILL.md` for relevant ma
 
 Scope: Markdown documentation, Git versioning when available, and the reusable Codex Skill. DO NOT create an MCP server, chatbot, Python app, API, backend, frontend, database, JSON schema, package manager config or multi-agent setup. Do not make a large scaffold. No application scripts or automated gameplay tests are required; local Skill validation and document checks are in scope.
 
-Current state (2026-10-12): the Skill was incorporated from the incremental patch. HSR has 72 user-reported roster entries; ZZZ has 47 (34 S-rank M0, 13 A-rank M6). Preserve all account data and existing historical-source caveats. No Git metadata was found in this workspace; report that limitation rather than initializing Git without a new request.
+Current state (2026-10-12): the Skill was incorporated from the incremental patch. HSR has 72 user-reported roster entries; ZZZ has 47 (34 S-rank M0, 13 A-rank M6). Preserve all account data and existing historical-source caveats. Following explicit user authorization, Git was initialized in this existing workspace and published to the private repository https://github.com/cristianworth/gacha-advisor, branch `main`, remote `origin`. No project was restarted or knowledge file moved. The original patch and incremental review diff remain local ignored artifacts.
+
+User preference: use Codex for maintenance or gameplay advice and manually refresh the ChatGPT Project whenever desired. Live response checks are optional troubleshooting tools, not a recurring requirement or publication gate; comparison between interfaces is not required. See `ROADMAP.md` for proposed next steps, prioritizing account context over new infrastructure.
 
 ## What to do
 
@@ -28,13 +30,13 @@ Current state (2026-10-12): the Skill was incorporated from the incremental patc
    - Paste `gacha-game-advisor.md` in **Project settings → Instructions**.
    - Add `equipment-stat-reference.md` and `account-snapshots.md` under **Project sources**.
    - Explain that these local Codex files do NOT automatically synchronize with the ChatGPT Project; when changed, update the Project separately.
-6. Add a concise, manually executable **quality checklist** to README with at least these cases:
+6. Maintain a concise, optional **quality checklist** in README for troubleshooting, with at least these cases:
    - Genshin ER Main Stat is valid on Sands but invalid on Goblet and Circlet.
    - WuWa Fusion DMG Main Stat is valid for 3-cost Echo, not 1-cost.
    - Blackbird and Daffodil builds can depend on which NTE team is used.
    - Pull value of Hsin must consider the team's units, signature, available roster and investment.
    - WuWa level-zero Echoes have unknown substats; never assume their rolls.
-7. Check Skill frontmatter, local references, and advisor length. Review applicable README regression criteria locally; run the live ChatGPT cases only with access to the configured Project, otherwise mark them pending.
+7. Check Skill frontmatter, local references, and advisor length. Review applicable README regression criteria locally. Live ChatGPT checks are optional; if requested, run them only with access to the configured Project and report which were actually run. Unexecuted live checks do not block local work or publication.
 8. Briefly identify what was changed, what remains uncertain, and which file belongs in Project instructions versus Project sources. Explain how to invoke the Codex Skill and show the actual diff; distinguish local edits from updates to the ChatGPT Project.
 
 ## Quality bar

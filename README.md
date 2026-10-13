@@ -7,7 +7,7 @@ O Projeto ChatGPT existente **`gacha`** continua como interface para recomendaç
 1. Abra o Projeto **`gacha`** no ChatGPT.
 2. Abra **Project settings → Instructions** (Configurações do projeto → Instruções). Cole o conteúdo completo de `gacha-game-advisor.md` e salve. Use-o como as instruções do Advisor; não basta anexar esse arquivo como fonte. O conteúdo deve permanecer com **menos de 8.000 caracteres**, incluindo espaços e quebras de linha.
 3. Em **Project sources / Fontes do projeto**, adicione os arquivos `equipment-stat-reference.md` e `account-snapshots.md`, mantendo esses nomes.
-4. Inicie uma conversa dentro de `gacha` e peça: “Consulte as duas fontes do Advisor e diga quais dados de conta e regras de equipamentos estão disponíveis e quais ainda são desconhecidos.” Confira a resposta contra os arquivos; repetir os nomes dos arquivos não comprova que foram consultados.
+4. Opcional: para conferir a instalação, peça em uma conversa dentro de `gacha`: “Consulte as duas fontes do Advisor e diga quais dados de conta e regras de equipamentos estão disponíveis e quais ainda são desconhecidos.” Compare a resposta com os arquivos; repetir seus nomes não comprova consulta. Essa conferência não é um requisito para começar a usar o Advisor.
 
 | Documento local | Destino |
 |---|---|
@@ -17,6 +17,7 @@ O Projeto ChatGPT existente **`gacha`** continua como interface para recomendaç
 | `AGENTS.md` | Regras locais do Codex para editar este workspace; não enviar ao Projeto |
 | `.agents/skills/gacha-advisor/SKILL.md` | Workflow local do Codex para manutenção e revisão; não enviar ao Projeto |
 | `README.md` | Guia local; não precisa ser enviado |
+| `ROADMAP.md` | Prioridades propostas para evolução; não enviar como fonte ou instruções |
 | `CODEX_HANDOFF.md` | Orientação local para revisão; não enviar como instruções ou fonte do Advisor |
 | `CODEX_INCREMENTAL_HANDOFF.md` / `gacha-advisor-incremental.patch` | Histórico da incorporação incremental; não enviar ao Projeto nem reaplicar o patch sobre os arquivos atuais |
 
@@ -39,7 +40,9 @@ A Skill orienta pesquisa, manutenção das fontes e revisão da qualidade das re
 
 ## Estado do versionamento
 
-Na inspeção de 2026-10-12, `D:\Repo\gacha-advisor` não foi reconhecido como repositório Git e não havia `.git` neste workspace. O versionamento é parte da arquitetura pretendida, mas ainda não está ativo nesta pasta. Nenhum repositório foi inicializado ou reinicializado, nem foram feitos commits. É necessário esclarecer onde está o repositório existente ou autorizar sua configuração em outra tarefa. Não mova o conhecimento apenas para reproduzir a estrutura de outro starter kit.
+Em 2026-10-12, após autorização explícita para publicar, o Git foi inicializado nesta mesma pasta, preservando os arquivos existentes. O repositório [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor) é **privado**, com branch principal `main` e remoto `origin`. O patch original e o diff da revisão incremental permanecem locais, ignorados pelo Git; os documentos atuais e a Skill são versionados.
+
+O [roadmap](ROADMAP.md) registra os próximos passos sugeridos. Codex pode manter os arquivos e também responder sobre jogos usando esse contexto. Use o Projeto ChatGPT quando preferir e atualize suas cópias manualmente quando considerar necessário; não há obrigação de comparar respostas entre os dois.
 
 ## Atualizações manuais
 
@@ -51,9 +54,9 @@ Ao mudar as instruções, cole novamente o conteúdo atualizado e salve. Ao muda
 
 A pesquisa web pode apoiar respostas atuais quando disponível. Sem ela, o Advisor deve identificar a limitação e trabalhar com as fontes datadas, sem alegar confirmação do patch atual.
 
-## Checklist manual de qualidade
+## Checklist opcional de qualidade
 
-Execute cada pergunta em uma conversa dentro do Projeto. A resposta passa se atender ao critério; se falhar, confira o conteúdo das instruções e as versões das fontes enviadas.
+Use os exemplos abaixo quando quiser investigar uma resposta duvidosa ou conferir uma mudança relevante. Não é necessário executar todos, repetir a cada atualização ou comparar Codex com ChatGPT. Se usar um caso no Projeto, confira se as fontes enviadas estão atuais; se a resposta falhar, revise a regra e a informação da conta que causaram o erro.
 
 | Pergunta de teste | Critério de aprovação |
 |---|---|
@@ -74,4 +77,4 @@ Execute cada pergunta em uma conversa dentro do Projeto. A resposta passa se ate
 - Conta: preservados roster, constelações/dupes, signatures relatadas, composições e inventário. Separados posse, discussão e desconhecidos; origem registrada no snapshot inicial e nas atualizações diretas de ZZZ/HSR desta conversa.
 - Pendências: regras de Arc/Console, coincidência de Main Stats/substats em Modules NTE, regras atuais de Data Modify/reroll WuWa e mudanças posteriores aos guias. Notações como `Skia C6` e `Cryo Traveler C2` permanecem como fornecidas, com metadados a verificar.
 
-O checklist acima ainda precisa ser executado no Projeto após a instalação; a revisão local não mede a qualidade de respostas de uma configuração que ainda não foi atualizada no ChatGPT.
+O checklist não foi executado no Projeto nesta revisão e permanece disponível como recurso opcional. As verificações locais de documentos não comprovam a qualidade das respostas do ChatGPT. Nenhuma execução no Projeto é pendência obrigatória para usar ou publicar o repositório.
