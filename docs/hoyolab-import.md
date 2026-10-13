@@ -20,7 +20,7 @@ Aproveitar a estrutura de autenticação já utilizada no Apps Script, com uma f
 2. Consultar a roster e os Mindscapes; comparar os campos retornados com o HoYoLAB.
 3. Consultar um Agent para validar W-Engine, discos e habilidades antes de ampliar a coleta.
 4. Exportar somente dados de jogo necessários, com data, origem e indicação de completude.
-5. Mostrar diferenças contra [account-snapshots.md](../account-snapshots.md), preservando nomes, variantes e observações. Dados ausentes ou consultas parciais não removem registros. Valores coletados só substituem a regra relatada M0/M6 nos campos confirmados e com origem registrada.
+5. Mostrar diferenças contra [account-snapshots.md](../advisor/account-snapshots.md), preservando nomes, variantes e observações. Dados ausentes ou consultas parciais não removem registros. Valores coletados só substituem a regra relatada M0/M6 nos campos confirmados e com origem registrada.
 6. Atualizar o Markdown após revisão. O usuário continua substituindo a fonte do Projeto ChatGPT manualmente.
 
 As etapas acima são propostas, não trabalho concluído. A biblioteca Python serve como referência de comportamento; não exige criar uma aplicação Python neste repositório. A coleta DOM no navegador permanece alternativa caso a autenticação existente não seja suficiente.

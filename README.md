@@ -20,26 +20,47 @@ No Codex, abra os chats de jogo neste mesmo projeto/pasta. No ChatGPT, abra-os d
 Exemplo para iniciar um chat no Codex:
 
 ```text
-Este chat é dedicado a ZZZ. Leia gacha-game-advisor.md e as seções de ZZZ
-em account-snapshots.md e equipment-stat-reference.md.
+Este chat é dedicado a ZZZ. Leia advisor/gacha-game-advisor.md e as seções de ZZZ
+em advisor/account-snapshots.md e advisor/equipment-stat-reference.md.
 Use esse contexto para as recomendações. Não presuma dados não informados.
 ```
 
-Se houver uma aquisição ou correção, peça explicitamente para atualizar a seção do jogo em `account-snapshots.md`. Evite editar o mesmo arquivo simultaneamente em dois chats.
+Se houver uma aquisição ou correção, peça explicitamente para atualizar a seção do jogo em `advisor/account-snapshots.md`. Evite editar o mesmo arquivo simultaneamente em dois chats.
 
 Esse fluxo segue a [documentação oficial sobre projetos e chats](https://learn.chatgpt.com/docs/projects), consultada em 2026-10-13: chats locais usam arquivos do workspace; chats do Projeto ChatGPT usam as fontes e instruções configuradas nele.
+
+## Estrutura do repositório
+
+```text
+gacha-advisor/
+├── README.md
+├── AGENTS.md
+├── .gitignore
+├── advisor/
+│   ├── gacha-game-advisor.md
+│   ├── equipment-stat-reference.md
+│   └── account-snapshots.md
+├── docs/
+│   ├── ROADMAP.md
+│   ├── CODEX_HANDOFF.md
+│   ├── quality-checks.md
+│   └── hoyolab-import.md
+└── .agents/skills/gacha-advisor/SKILL.md
+```
+
+A raiz contém os pontos de entrada. `advisor/` reúne os arquivos usados nas recomendações e na instalação do Projeto; `docs/` reúne manutenção e planejamento. A Skill mantém o caminho necessário à descoberta pelo Codex.
 
 ## Responsabilidade dos documentos
 
 | Arquivo | Conteúdo | Uso |
 |---|---|---|
-| [gacha-game-advisor.md](gacha-game-advisor.md) | Comportamento, pesquisa e critérios de recomendação; menos de 8.000 caracteres | Instruções do ChatGPT; contexto para recomendações no Codex |
-| [equipment-stat-reference.md](equipment-stat-reference.md) | Regras de stats por jogo/slot, fontes e incertezas | Fonte do Projeto |
-| [account-snapshots.md](account-snapshots.md) | Roster, dupes, equipamentos, times e desconhecidos, separados por jogo | Fonte do Projeto |
+| [gacha-game-advisor.md](advisor/gacha-game-advisor.md) | Comportamento, pesquisa e critérios de recomendação; menos de 8.000 caracteres | Instruções do ChatGPT; contexto para recomendações no Codex |
+| [equipment-stat-reference.md](advisor/equipment-stat-reference.md) | Regras de stats por jogo/slot, fontes e incertezas | Fonte do Projeto |
+| [account-snapshots.md](advisor/account-snapshots.md) | Roster, dupes, equipamentos, times e desconhecidos, separados por jogo | Fonte do Projeto |
 | [AGENTS.md](AGENTS.md) | Regras para trabalhar neste repositório | Codex |
 | [Skill gacha-advisor](.agents/skills/gacha-advisor/SKILL.md) | Workflow de manutenção e revisão | Codex |
-| [ROADMAP.md](ROADMAP.md) | Prioridades propostas | Manutenção |
-| [CODEX_HANDOFF.md](CODEX_HANDOFF.md) | Estado e pendências para retomar o trabalho | Manutenção |
+| [ROADMAP.md](docs/ROADMAP.md) | Prioridades propostas | Manutenção |
+| [CODEX_HANDOFF.md](docs/CODEX_HANDOFF.md) | Estado e pendências para retomar o trabalho | Manutenção |
 | [docs/quality-checks.md](docs/quality-checks.md) | Exemplos opcionais para investigar respostas erradas | Manutenção |
 | [docs/hoyolab-import.md](docs/hoyolab-import.md) | Evidências, limites e proposta de importação HoYoLAB | Manutenção |
 
@@ -48,11 +69,11 @@ As regras de equipamentos e os snapshots já têm seções por jogo. Mantenha um
 ## Instalar e atualizar no ChatGPT
 
 1. Abra o Projeto existente **`gacha`**.
-2. Em **Configurações do projeto → Instruções**, cole todo o conteúdo de `gacha-game-advisor.md`.
-3. Em **Fontes do projeto**, adicione `equipment-stat-reference.md` e `account-snapshots.md` com esses nomes.
+2. Em **Configurações do projeto → Instruções**, cole todo o conteúdo de `advisor/gacha-game-advisor.md`.
+3. Em **Fontes do projeto**, adicione os arquivos `advisor/equipment-stat-reference.md` e `advisor/account-snapshots.md`. No Projeto, mantenha os nomes dos arquivos sem o prefixo da pasta.
 4. Ao atualizar as instruções, cole novamente. Ao atualizar uma fonte, substitua a cópia anterior pelo arquivo atual.
 
-Envie somente esses três documentos, nos destinos acima. README, AGENTS, Skill, roadmap, handoff e `docs/` orientam manutenção e não precisam ser enviados.
+Envie somente esses três documentos, nos destinos acima. README, AGENTS, Skill e o conteúdo de `docs/` orientam manutenção e não precisam ser enviados.
 
 **Alterar arquivos ou enviar commits ao GitHub não atualiza o Projeto ChatGPT.** Você escolhe quando atualizar suas cópias. O [checklist](docs/quality-checks.md) é opcional; não exige testes recorrentes nem comparação entre Codex e ChatGPT.
 

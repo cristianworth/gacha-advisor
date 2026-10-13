@@ -10,10 +10,10 @@ This repository maintains a **ChatGPT Project configuration** for Gacha Advisor.
 
 ## Working rules
 
-- Before editing, locate the three knowledge files (`gacha-game-advisor.md`, `equipment-stat-reference.md`, `account-snapshots.md`). They may be at the repository root or under `references/`. Use the existing layout; do not move or overwrite files merely to match another ZIP.
+- Before editing, read the layout in `README.md`. The three knowledge files live in `advisor/`; maintenance documents live in `docs/`. Do not move or overwrite them merely to match another starter kit.
 - For advisor/refinement tasks, consult `.agents/skills/gacha-advisor/SKILL.md` and follow its workflow.
-- The current knowledge files are at the repository root. Keep `.agents/skills/gacha-advisor/SKILL.md` as the single canonical Skill entrypoint; do not maintain a second root-level `SKILL.md`.
-- Keep the three knowledge files canonical. Account facts belong in the matching game section of `account-snapshots.md`; equipment rules belong in `equipment-stat-reference.md`; recommendation behavior belongs in `gacha-game-advisor.md`. Maintenance notes and optional checks belong in `docs/`, not in Project sources.
+- The current knowledge files are in `advisor/`. Keep `.agents/skills/gacha-advisor/SKILL.md` as the single canonical Skill entrypoint; do not maintain a second root-level `SKILL.md`.
+- Keep the three knowledge files canonical. Account facts belong in the matching game section of `advisor/account-snapshots.md`; equipment rules belong in `advisor/equipment-stat-reference.md`; recommendation behavior belongs in `advisor/gacha-game-advisor.md`. Maintenance notes and optional checks belong in `docs/`, not in Project sources.
 - Keep the advisor instructions under **8,000 characters**; do not copy long rosters or stats tables into it.
 - Treat account facts as user-reported; distinguish owned, discussed, and unknown.
 - Revalidate time-sensitive gameplay information with up-to-date reliable sources when research tools are available, documenting date and version. Do not fabricate confirmation.
@@ -30,7 +30,7 @@ Read-only investigation and planning of HoYoLAB imports are allowed; see `docs/h
 ## Conversation boundaries
 
 - The main chat handles repository maintenance and project decisions. Separate chats handle gameplay recommendations for each game; use the current files as durable context rather than assuming access to another chat's transcript.
-- For gameplay advice in Codex, read `gacha-game-advisor.md` and the relevant game's account/equipment sections. Recommendation discussions do not require reorganizing the repository.
+- For gameplay advice in Codex, read `advisor/gacha-game-advisor.md` and the relevant game's account/equipment sections. Recommendation discussions do not require reorganizing the repository.
 - Record explicit account updates only in the affected game section, with provenance. Distinguish a proposed team/build from what the user actually uses. Avoid concurrent edits to the same file across chats.
 
 ## Delivery checks

@@ -20,4 +20,4 @@ Use os exemplos abaixo quando quiser investigar uma resposta duvidosa ou conferi
 
 Os casos acima não foram executados no Projeto ChatGPT durante a revisão documental. A conferência dos arquivos não comprova a qualidade de uma resposta ao vivo. Quando usar um caso, registre apenas o resultado relevante para a correção; não crie uma pendência permanente por não executar todos.
 
-Regras e fontes datadas ficam em [equipment-stat-reference.md](../equipment-stat-reference.md), fatos e lacunas da conta em [account-snapshots.md](../account-snapshots.md), e comportamento em [gacha-game-advisor.md](../gacha-game-advisor.md). Consulte o [README](../README.md) para atualizar o Projeto manualmente.
+Regras e fontes datadas ficam em [equipment-stat-reference.md](../advisor/equipment-stat-reference.md), fatos e lacunas da conta em [account-snapshots.md](../advisor/account-snapshots.md), e comportamento em [gacha-game-advisor.md](../advisor/gacha-game-advisor.md). Consulte o [README](../README.md) para atualizar o Projeto manualmente.

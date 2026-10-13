@@ -10,12 +10,12 @@ This Skill guides **Codex work on the repository**, not a standalone chatbot. It
 
 ## Required repository context
 
-Paths below resolve from this Skill directory to the existing workspace root. Read only the context needed for the requested change; preserve the layout.
+Paths below resolve from this Skill directory into the existing repository layout. Read only the context needed for the requested change; preserve the layout.
 
 - [AGENTS.md](../../../AGENTS.md) — repository scope and delivery checks.
-- [gacha-game-advisor.md](../../../gacha-game-advisor.md) — ChatGPT behavior and research policy.
-- [account-snapshots.md](../../../account-snapshots.md) — user-reported ownership, builds, teams and unknowns.
-- [equipment-stat-reference.md](../../../equipment-stat-reference.md) — historical stat legality, sources and verification caveats.
+- [gacha-game-advisor.md](../../../advisor/gacha-game-advisor.md) — ChatGPT behavior and research policy.
+- [account-snapshots.md](../../../advisor/account-snapshots.md) — user-reported ownership, builds, teams and unknowns.
+- [equipment-stat-reference.md](../../../advisor/equipment-stat-reference.md) — historical stat legality, sources and verification caveats.
 - [README.md](../../../README.md) — installation, chat organization and manual source updates.
 
 This workflow covers Markdown maintenance and recommendation review. MCP, standalone chatbot, APIs, backend, frontend, databases and Python applications remain outside this phase. A review request does not authorize updating the live ChatGPT Project or messaging another chat.
