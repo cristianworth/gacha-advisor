@@ -40,7 +40,7 @@ A Skill orienta pesquisa, manutenção das fontes e revisão da qualidade das re
 
 ## Estado do versionamento
 
-Em 2026-10-12, após autorização explícita para publicar, o Git foi inicializado nesta mesma pasta, preservando os arquivos existentes. O repositório [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor) é **privado**, com branch principal `main` e remoto `origin`. O patch original e o diff da revisão incremental permanecem locais, ignorados pelo Git; os documentos atuais e a Skill são versionados.
+Em 2026-10-12, após autorização explícita para publicar, o Git foi inicializado nesta mesma pasta, preservando os arquivos existentes. O repositório [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor) é **público**, com branch principal `main` e remoto `origin`. Foi criado inicialmente como privado e aberto após revisão e pedido do usuário. Os snapshots de conta e a autoria dos commits ficam acessíveis publicamente. O patch original e o diff da revisão incremental permanecem locais, ignorados pelo Git; os documentos atuais e a Skill são versionados.
 
 O [roadmap](ROADMAP.md) registra os próximos passos sugeridos. Codex pode manter os arquivos e também responder sobre jogos usando esse contexto. Use o Projeto ChatGPT quando preferir e atualize suas cópias manualmente quando considerar necessário; não há obrigação de comparar respostas entre os dois.
 

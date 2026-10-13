@@ -1,6 +1,6 @@
 # Gacha Advisor — próximos passos
 
-Proposta de prioridades em 2026-10-12. A base documental e a Skill já estão no repositório privado [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor). Os passos abaixo são sugestões; não representam dados de conta confirmados nem funcionalidades implementadas.
+Proposta de prioridades em 2026-10-12. A base documental e a Skill já estão no repositório público [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor). Os passos abaixo são sugestões; não representam dados de conta confirmados nem funcionalidades implementadas.
 
 ## Sugestão para começar
 
