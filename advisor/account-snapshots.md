@@ -54,13 +54,34 @@ Amber C2; Kaeya C3; Lisa C2; Razor C6; Xiangling C6; Xingqiu C6; Noelle C6; Barb
 
 ## Wuthering Waves (WuWa)
 
+**Weapon source / report date:** inventory supplied directly by the user in this WuWa Codex conversation on **2026-10-14**. All weapons explicitly listed below are owned and **level 90**. The user instructed that weapons without an explicit refinement be recorded as **R1**; this default applies to this report, not automatically to future acquisitions. Names and rarity are preserved as reported; public weapon metadata was not independently verified.
+
+**Owned 5-star weapons — level 90:**
+
+Luminous Hymm R1; Abyss Surges R1; Phasic Homogenizer R1; Static Mist R1; Glint of Clouds R1; Frostburn R1; Defier's Thorn R1; Bloodpact's Pledge R1; Emerald of Genesis R1; Verdant Summit R1.
+
+**Owned 4-star weapons — level 90 (separate copies retained):**
+
+- Augment: 2 copies, each R1.
+- Variation: 3 copies, each R1.
+- Stonard R1.
+- Novaburst R5.
+- Cadenza R5.
+- Commando of Conviction R5.
+- Somnoire Anchor R5.
+- Waning Redshift R5.
+- Discord: 1 copy R3 and another copy R1.
+- Overture R3.
+
+**Additional weapon ownership:** the user reports owning all 4-star weapons in the game, including all Battle Pass weapons. Only the explicitly listed copies above are confirmed level 90. Levels, refinements and copy counts of the remaining 4-star inventory were not supplied; do not extrapolate the R1 default or level 90 to unlisted weapons. Weapon ownership does not establish ownership of an associated character or which character currently equips it.
+
 **Discussed characters / compositions, not verified as owned:** Yangyang + Chisa + Suisui; Hsin and Suoming as a potential investment pair.
 
 **Inventory detail reported:** 157 level-zero Echoes with selected ideal Main Stats; primarily 3-cost Fusion DMG and 4-cost CRIT Rate/CRIT DMG, with limited 1-cost ATK% pieces. The user has **not revealed the substats** of these pieces. Echo EXP is perceived as a major bottleneck; analyses about leveling vs Data Merge must account for the XP cost of revealing rolls. Do not infer rolled substats.
 
 **Roster completeness:** unknown. Ask only for missing details truly required by the specific recommendation; do not convert discussion into an owned roster.
 
-**Unknown:** ownership/dupes of all discussed characters, signature weapons, intended Hsin team, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Hsin/Suoming investment must be assessed conditionally until the necessary account and kit information is known.
+**Unknown:** ownership/dupes of all discussed characters, weapons beyond the reported inventory and details of unlisted 4-star weapons, current weapon assignments, intended Hsin team, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Hsin/Suoming investment must be assessed conditionally until the necessary account and kit information is known.
 
 ## Honkai: Star Rail (HSR)
 
@@ -103,6 +124,7 @@ When the user reports a new acquisition, dupe, weapon or permanent team:
 
 ## Review log
 
+- 2026-10-14 — Direct user update in this WuWa Codex conversation: recorded 10 user-reported 5-star weapons and 14 separate 4-star weapon copies at level 90, retaining explicit refinements and applying R1 only to listed weapons without a specified refinement. Recorded ownership of all 4-star weapons, including Battle Pass weapons, with remaining levels/refinements/copy counts unknown. Previously, weapon ownership was unspecified. Preserved discussed characters, Echo inventory and all other game sections.
 - 2026-10-12 — Documentation review of the supplied snapshot: retained every roster entry, constellation/dupe, ownership classification, composition and the 157 level-zero Echoes. Added provenance limits, explicit unknowns and unresolved notation flags. No new acquisition or live account verification was recorded.
 - 2026-10-12 — Direct user update in this Codex conversation: replaced unknown ZZZ roster with 47 user-reported owned Agents, applying the requested M0 to 34 S-rank Agents and M6 to 13 A-rank Agents. Kept user display names and distinguished Anby variants and Lúcia/Lucy. No W-Engine, build, team or resource ownership was inferred.
 - 2026-10-12 — Direct user update in this Codex conversation: replaced unknown HSR roster with 72 user-reported owned character entries, retaining every supplied name and Eidolon. Flagged unspecified Trailblazer/March 7th forms and kept separately named variants distinct. No Light Cone, build, team, resource or release status was inferred.
