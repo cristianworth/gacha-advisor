@@ -54,26 +54,97 @@ Amber C2; Kaeya C3; Lisa C2; Razor C6; Xiangling C6; Xingqiu C6; Noelle C6; Barb
 
 ## Wuthering Waves (WuWa)
 
-**Weapon source / report date:** inventory supplied directly by the user in this WuWa Codex conversation on **2026-10-14**. All weapons explicitly listed below are owned and **level 90**. The user instructed that weapons without an explicit refinement be recorded as **R1**; this default applies to this report, not automatically to future acquisitions. Names and rarity are preserved as reported; public weapon metadata was not independently verified.
+**Weapon source / report date:** direct user reports in this WuWa Codex conversation on **2026-10-14**. The user reports owning all 4-star weapons, including both Battle Pass sets, and confirmed ownership of all 5-star weapons from both standard sets. Record **R1** wherever no refinement was specified, as instructed for this inventory. Explicit refinements and separate copies override that default. Only the initial named inventory is confirmed **level 90**; levels of newly enumerated weapons remain unknown. Ownership does not establish an associated character's ownership or current weapon assignment.
 
-**Owned 5-star weapons — level 90:**
+**Owned 5-star weapons — original standard set (Winter Brume):**
 
-Luminous Hymm R1; Abyss Surges R1; Phasic Homogenizer R1; Static Mist R1; Glint of Clouds R1; Frostburn R1; Defier's Thorn R1; Bloodpact's Pledge R1; Emerald of Genesis R1; Verdant Summit R1.
+| Weapon | Refinement | Confirmed level |
+|---|---|---|
+| Lustrous Razor | R1 | Unknown |
+| Emerald of Genesis | R1 | 90 |
+| Static Mist | R1 | 90 |
+| Abyss Surges | R1 | 90 |
+| Cosmic Ripples | R1 | Unknown |
 
-**Owned 4-star weapons — level 90 (separate copies retained):**
+**Owned 5-star weapons — new standard set (Synth Armament, version 3.0):**
 
-- Augment: 2 copies, each R1.
-- Variation: 3 copies, each R1.
-- Stonard R1.
-- Novaburst R5.
-- Cadenza R5.
-- Commando of Conviction R5.
-- Somnoire Anchor R5.
-- Waning Redshift R5.
-- Discord: 1 copy R3 and another copy R1.
-- Overture R3.
+| Weapon | Refinement | Confirmed level |
+|---|---|---|
+| Laser Shearer | R1 | Unknown |
+| Radiance Cleaver | R1 | Unknown |
+| Phasic Homogenizer | R1 | 90 |
+| Pulsation Bracer | R1 | Unknown |
+| Boson Astrolabe | R1 | Unknown |
 
-**Additional weapon ownership:** the user reports owning all 4-star weapons in the game, including all Battle Pass weapons. Only the explicitly listed copies above are confirmed level 90. Levels, refinements and copy counts of the remaining 4-star inventory were not supplied; do not extrapolate the R1 default or level 90 to unlisted weapons. Weapon ownership does not establish ownership of an associated character or which character currently equips it.
+**Other owned 5-star weapons — all R1, level 90:**
+
+Luminous Hymm; Glint of Clouds; Frostburn; Defier's Thorn; Bloodpact's Pledge; Verdant Summit.
+
+Names from the initial report remain as supplied. `Luminous Hymm` is preserved; public catalogs use `Luminous Hymn`, a lookup spelling to confirm when needed, not an additional owned weapon.
+
+**Owned 4-star weapons — 43 distinct names enumerated:**
+
+R1 is the user's default for this inventory, not an independently inspected refinement. “Owned; count unknown” means at least one copy is reported through ownership of all 4-star weapons, without an exact copy count. A level listed as unknown must not be treated as 90.
+
+**Battle Pass — original set:**
+
+| Weapon | Copies / refinement | Confirmed level |
+|---|---|---|
+| Autumntrace | Owned; count unknown; R1 | Unknown |
+| Lumingloss | Owned; count unknown; R1 | Unknown |
+| Thunderbolt | Owned; count unknown; R1 | Unknown |
+| Stonard | Owned; count unknown; R1 | 90 |
+| Augment | 2 copies, each R1 | 90 |
+
+**Battle Pass — Hunter's Growl (version 2.6):**
+
+| Weapon | Copies / refinement | Confirmed level |
+|---|---|---|
+| Aureate Zenith | Owned; count unknown; R1 | Unknown |
+| Feather Edge | Owned; count unknown; R1 | Unknown |
+| Solar Flame | Owned; count unknown; R1 | Unknown |
+| Aether Strike | Owned; count unknown; R1 | Unknown |
+| Radiant Dawn | Owned; count unknown; R1 | Unknown |
+
+**Other 4-star weapons:**
+
+| Weapon | Copies / refinement | Confirmed level |
+|---|---|---|
+| Amity Accord | Owned; count unknown; R1 | Unknown |
+| Broadblade#41 | Owned; count unknown; R1 | Unknown |
+| Cadenza | R5; count unknown | 90 |
+| Call of the Abyss | Owned; count unknown; R1 | Unknown |
+| Celestial Spiral | Owned; count unknown; R1 | Unknown |
+| Comet Flare | Owned; count unknown; R1 | Unknown |
+| Commando of Conviction | R5; count unknown | 90 |
+| Dauntless Evernight | Owned; count unknown; R1 | Unknown |
+| Discord | 1 copy R3 + 1 copy R1 | 90 |
+| Endless Collapse | Owned; count unknown; R1 | Unknown |
+| Fables of Wisdom | Owned; count unknown; R1 | Unknown |
+| Fusion Accretion | Owned; count unknown; R1 | Unknown |
+| Gauntlets#21D | Owned; count unknown; R1 | Unknown |
+| Helios Cleaver | Owned; count unknown; R1 | Unknown |
+| Hollow Mirage | Owned; count unknown; R1 | Unknown |
+| Jinzhou Keeper | Owned; count unknown; R1 | Unknown |
+| Legend of Drunken Hero | Owned; count unknown; R1 | Unknown |
+| Lunar Cutter | Owned; count unknown; R1 | Unknown |
+| Marcato | Owned; count unknown; R1 | Unknown |
+| Meditations on Mercy | Owned; count unknown; R1 | Unknown |
+| Novaburst | R5; count unknown | 90 |
+| Ocean's Gift | Owned; count unknown; R1 | Unknown |
+| Overture | R3; count unknown | 90 |
+| Pistols#26 | Owned; count unknown; R1 | Unknown |
+| Rectifier#25 | Owned; count unknown; R1 | Unknown |
+| Relativistic Jet | Owned; count unknown; R1 | Unknown |
+| Romance in Farewell | Owned; count unknown; R1 | Unknown |
+| Somnoire Anchor | R5; count unknown | 90 |
+| Sword#18 | Owned; count unknown; R1 | Unknown |
+| Undying Flame | Owned; count unknown; R1 | Unknown |
+| Variation | 3 copies, each R1 | 90 |
+| Waltz in Masquerade | Owned; count unknown; R1 | Unknown |
+| Waning Redshift | R5; count unknown | 90 |
+
+**Catalog sources:** [Prydwen weapon directory](https://www.prydwen.gg/wuthering-waves/weapons) (page displays 2026-10-05; 43 distinct 4-star names), [Prydwen Pioneer Podcast](https://www.prydwen.gg/wuthering-waves/guides/battle-pass-weapons) (both Battle Pass sets), [Prydwen gacha guide](https://www.prydwen.gg/wuthering-waves/guides/gacha/) (standard pool), [official version 2.6 notes](https://wutheringwaves.kurogames.com/en/main/news/detail/3194) (Hunter's Growl) and [official version 3.0 maintenance notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3800) (Synth Armament). Consulted **2026-10-14** for catalog names/sets, not private ownership, optimality or certification of the current game patch. The directory's extracted weapon-type field repeats Pistols across entries; it was not used to classify weapon types. Catalog expansion reflects this report date and does not automatically establish ownership of later releases.
 
 **Discussed characters / compositions, not verified as owned:** Yangyang + Chisa + Suisui; Hsin and Suoming as a potential investment pair.
 
@@ -81,7 +152,7 @@ Luminous Hymm R1; Abyss Surges R1; Phasic Homogenizer R1; Static Mist R1; Glint 
 
 **Roster completeness:** unknown. Ask only for missing details truly required by the specific recommendation; do not convert discussion into an owned roster.
 
-**Unknown:** ownership/dupes of all discussed characters, weapons beyond the reported inventory and details of unlisted 4-star weapons, current weapon assignments, intended Hsin team, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Hsin/Suoming investment must be assessed conditionally until the necessary account and kit information is known.
+**Unknown:** ownership/dupes of all discussed characters, additional weapons/copies beyond the reported inventory, levels of newly enumerated weapons, exact copy counts except those explicitly recorded, current weapon assignments, intended Hsin team, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Hsin/Suoming investment must be assessed conditionally until the necessary account and kit information is known.
 
 ## Honkai: Star Rail (HSR)
 
@@ -124,6 +195,7 @@ When the user reports a new acquisition, dupe, weapon or permanent team:
 
 ## Review log
 
+- 2026-10-14 — Follow-up direct user update in this WuWa Codex conversation: expanded the aggregate all-4-star ownership statement into 43 catalog names, including both Battle Pass sets; user requested R1 for unspecified refinements and confirmed ownership of both complete 5-star standard sets at R1 unless previously specified. Added six standard weapons to the previous ten named 5-star weapons (16 distinct owned 5-star names total). Preserved all previously reported level-90 entries, explicit refinements and duplicate copies; newly enumerated levels and unspecified copy counts remain unknown. Catalog sources and consultation date are recorded in the WuWa section.
 - 2026-10-14 — Direct user update in this WuWa Codex conversation: recorded 10 user-reported 5-star weapons and 14 separate 4-star weapon copies at level 90, retaining explicit refinements and applying R1 only to listed weapons without a specified refinement. Recorded ownership of all 4-star weapons, including Battle Pass weapons, with remaining levels/refinements/copy counts unknown. Previously, weapon ownership was unspecified. Preserved discussed characters, Echo inventory and all other game sections.
 - 2026-10-12 — Documentation review of the supplied snapshot: retained every roster entry, constellation/dupe, ownership classification, composition and the 157 level-zero Echoes. Added provenance limits, explicit unknowns and unresolved notation flags. No new acquisition or live account verification was recorded.
 - 2026-10-12 — Direct user update in this Codex conversation: replaced unknown ZZZ roster with 47 user-reported owned Agents, applying the requested M0 to 34 S-rank Agents and M6 to 13 A-rank Agents. Kept user display names and distinguished Anby variants and Lúcia/Lucy. No W-Engine, build, team or resource ownership was inferred.
