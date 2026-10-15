@@ -82,6 +82,16 @@ Fluff of Fearlessness; Fluff of Ferocity; Fluff of Finesse; Fluff of Fleetness; 
 
 ## Wuthering Waves (WuWa)
 
+**Character source / report date:** roster of 55 owned character entries supplied directly by the user in this WuWa Codex conversation on **2026-10-15**, followed by an explicit clarification of four Rover forms on the same date (58 entries when forms are listed separately). Names and the user's character notation **R0–R6** are preserved exactly; these character ranks are separate from weapon refinements. Ownership is user-reported, not proof of builds or public kit metadata.
+
+**Owned characters (reported rank):**
+
+Hsin R0; Jiyan R0; Yuanwu R6; Calcharo R4; Encore R3; Jianxin R3; Lingyang R3; Verina R0; Aalto R6; Yangyang R6; Chixia R6; Mortefi R6; Baizhi R6; Sanhua R6; Danjin R6; Taoqi R6; Yinlin R0; Jinhsi R0; Changli R0; Zhezhi R0; Xiangli Yao R0; Shorekeeper R0; Youhu R6; Camellya R0; Lumi R6; Carlotta R0; Roccia R0; Phoebe R0; Brant R0; Cantarella R0; Zani R0; Ciaccona R0; Cartethyia R0; Lupa R0; Phrolova R0; Augusta R0; Iuno R0; Galbrena R0; Qiuyuan R0; Chisa R0; Buling R5; Lynae R0; Mornye R0; Aemeath R0; Luuk Herssen R0; Sigrika R0; Hiyuki R0; Denia R0; Lucy R0; Lucilla R0; Rebecca R0; Yangyang: Xuanling R0; Suisui R0; Qingxiao R0; Rover Spectro R6; Rover Havoc R6; Rover Aero R6; Rover Electro R1.
+
+**Forms / identity:** keep Yangyang R6 separate from Yangyang: Xuanling R0; do not share their ranks. The user explicitly clarified on **2026-10-15**: **Rover Spectro R6; Rover Havoc R6; Rover Aero R6; Rover Electro R1**. These replace the previously ambiguous Rover R6 entry; keep ranks separate for each form. Electro is confirmed owned/unlocked at R1, not R6. Suoming remains discussed, with ownership unconfirmed.
+
+**Hsin signature:** the user explicitly reported Hsin's signature weapon as owned on **2026-10-15**. [Prydwen's Hsin guide](https://www.prydwen.gg/wuthering-waves/characters/hsin) identifies it as **Blooming Jadehaven** (consulted 2026-10-15; guide updated 2026-10-05 for version 3.7). It is included in the weapon inventory below under the authorized one-copy/R1 default; the user's Hsin R0 notation does not refer to weapon refinement.
+
 **Weapon source / report date:** direct user reports and corrections in this WuWa Codex conversation on **2026-10-14**. The user owns all 4-star weapons, including both Battle Pass sets, and all 5-star weapons from both standard sets. **Default: one copy at R1 unless an exception is listed**, as explicitly instructed. Preserve explicitly reported copies and higher refinements. Current weapon levels are omitted at the user's request; evaluate all owned weapons at **level 90** for comparisons because the user can level them whenever needed. Ownership does not establish an associated character's ownership or current weapon assignment.
 
 **Owned 5-star weapons — original standard set (Winter Brume):**
@@ -94,7 +104,7 @@ Laser Shearer; Radiance Cleaver; Phasic Homogenizer; Pulsation Bracer; Boson Ast
 
 **Other owned 5-star weapons:**
 
-Luminous Hymm; Glint of Clouds; Frostburn; Defier's Thorn; Bloodpact's Pledge; Verdant Summit.
+Luminous Hymm; Glint of Clouds; Frostburn; Defier's Thorn; Bloodpact's Pledge; Verdant Summit; Blooming Jadehaven.
 
 Names from the initial report remain as supplied. `Luminous Hymm` is preserved; public catalogs use `Luminous Hymn`, a lookup spelling to confirm when needed, not an additional owned weapon.
 
@@ -114,13 +124,13 @@ Amity Accord; Broadblade#41; Cadenza (1x R5); Call of the Abyss; Celestial Spira
 
 **Catalog sources:** [Prydwen weapon directory](https://www.prydwen.gg/wuthering-waves/weapons) (page displays 2026-10-05; 43 distinct 4-star names), [Prydwen Pioneer Podcast](https://www.prydwen.gg/wuthering-waves/guides/battle-pass-weapons) (both Battle Pass sets), [Prydwen gacha guide](https://www.prydwen.gg/wuthering-waves/guides/gacha/) (standard pool), [official version 2.6 notes](https://wutheringwaves.kurogames.com/en/main/news/detail/3194) (Hunter's Growl) and [official version 3.0 maintenance notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3800) (Synth Armament). Consulted **2026-10-14** for catalog names/sets, not private ownership, optimality or certification of the current game patch. The directory's extracted weapon-type field repeats Pistols across entries; it was not used to classify weapon types. Catalog expansion reflects this report date and does not automatically establish ownership of later releases.
 
-**Discussed characters / compositions, not verified as owned:** Yangyang + Chisa + Suisui; Hsin and Suoming as a potential investment pair.
+**Discussed compositions, not confirmed as active teams:** Yangyang + Chisa + Suisui; Hsin and Suoming as a potential investment pair. Yangyang, Chisa, Suisui and Hsin are now confirmed owned by the roster report above; this does not confirm the compositions as used or establish Suoming ownership.
 
 **Inventory detail reported:** 157 level-zero Echoes with selected ideal Main Stats; primarily 3-cost Fusion DMG and 4-cost CRIT Rate/CRIT DMG, with limited 1-cost ATK% pieces. The user has **not revealed the substats** of these pieces. Echo EXP is perceived as a major bottleneck; analyses about leveling vs Data Merge must account for the XP cost of revealing rolls. Do not infer rolled substats.
 
-**Roster completeness:** unknown. Ask only for missing details truly required by the specific recommendation; do not convert discussion into an owned roster.
+**Roster scope:** the supplied roster records 58 owned entries when the four reported Rover forms are listed separately. Unlisted characters are not automatically unowned; ask only when that distinction changes a recommendation.
 
-**Unknown:** ownership/dupes of all discussed characters, additional weapons/copies beyond the reported inventory, current weapon assignments, intended Hsin team, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Hsin/Suoming investment must be assessed conditionally until the necessary account and kit information is known.
+**Unknown:** Suoming ownership/rank, additional weapons/copies beyond the reported inventory, current weapon assignments except Hsin's reported signature, active teams, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Proposed Hsin teams are recommendations, not confirmed active teams.
 
 ## Honkai: Star Rail (HSR)
 
