@@ -14,12 +14,14 @@ This repository maintains a **ChatGPT Project configuration** for Gacha Advisor.
 - For advisor/refinement tasks, consult `.agents/skills/gacha-advisor/SKILL.md` and follow its workflow.
 - The current knowledge files are in `advisor/`. Keep `.agents/skills/gacha-advisor/SKILL.md` as the single canonical Skill entrypoint; do not maintain a second root-level `SKILL.md`.
 - Keep the three knowledge files canonical. Account facts belong in the matching game section of `advisor/account-snapshots.md`; equipment rules belong in `advisor/equipment-stat-reference.md`; recommendation behavior belongs in `advisor/gacha-game-advisor.md`. Maintenance notes and optional checks belong in `docs/`, not in Project sources.
-- Keep the advisor instructions under **8,000 characters**; do not copy long rosters or stats tables into it.
+- Keep only `advisor/gacha-game-advisor.md` under **8,000 characters**, the repository compatibility ceiling for the Project Instructions field reported by the user. This ceiling does not apply to the two uploaded Project sources; see README for their separately documented upload limits. Do not copy long rosters or stats tables into the instructions.
 - Treat account facts as user-reported; distinguish owned, discussed, and unknown.
 - Revalidate time-sensitive gameplay information with up-to-date reliable sources when research tools are available, documenting date and version. Do not fabricate confirmation.
 - Never infer legal Main Stats from recommendations or assume a stat is optimal because it is legal.
 - Preserve existing user data; propose uncertain corrections instead of silently replacing it.
 - Apply explicit newer user account corrections only to the affected fields, recording provenance; preserve separately named variants and unrelated data.
+- For listed owned weapons in WuWa and NTE, omit repeated default values: one copy at R1 unless an explicit exception is given. Preserve all exceptions; do not apply this default to other games or infer ownership from it.
+- Keep provenance in the relevant account section and editing history in Git. Do not keep completed handoffs or maintenance logs in Project sources.
 - Make edits in files, summarize changes, and identify what must be manually refreshed in the ChatGPT Project.
 
 ## Scope, phase 1
@@ -35,7 +37,7 @@ Read-only investigation and planning of HoYoLAB imports are allowed; see `docs/h
 
 ## Delivery checks
 
-- Advisor length < 8,000 characters.
+- `advisor/gacha-game-advisor.md` length < 8,000 characters, including whitespace. No 8,000-character check for `account-snapshots.md` or `equipment-stat-reference.md`.
 - Cross-links use actual filenames in this repository.
 - User data provenance is explicit.
 - README specifies how to copy project instructions and add project sources.

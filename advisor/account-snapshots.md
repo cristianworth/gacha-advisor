@@ -2,7 +2,7 @@
 
 Snapshot compiled: 2026-10-12. **Source:** account details previously stated by the user in this ChatGPT project. This is a user-reported snapshot, **not a live sync**. Character availability, versions and metadata should not be assumed to be independently verified. If the user provides newer data, update the relevant entry and keep its provenance.
 
-**Provenance limitation:** the paragraph above describes the origin recorded in the initial supplied document. This workspace review on 2026-10-12 did not access the original ChatGPT Project chats, acquisition dates, screenshots or the live account. Initial ownership classifications were preserved from that document, not independently authenticated. Subsequent direct user reports in this Codex conversation are identified separately in the review log and relevant game section. The compilation/review date is not the date every item was acquired or last confirmed.
+**Provenance limitation:** the paragraph above describes the origin recorded in the initial supplied document. This workspace review on 2026-10-12 did not access the original ChatGPT Project chats, acquisition dates, screenshots or the live account. Initial ownership classifications were preserved from that document, not independently authenticated. Subsequent direct user reports are dated in the relevant game section. The compilation/review date is not the date every item was acquired or last confirmed.
 
 ## Data policy
 
@@ -26,6 +26,8 @@ Amber C2; Kaeya C3; Lisa C2; Razor C6; Xiangling C6; Xingqiu C6; Noelle C6; Barb
 
 **Discussed team context, not necessarily a locked team:** Mizuki C2 + Odette + Cryo Traveler + Faruzan C6.
 
+**To Temper Thyself and Journey Far — redemption history:** the user directly confirmed on **2026-10-14** in this Codex conversation that **Nilou C1, Klee C1, Shenhe C1, and Yae Miko C1** were obtained through this event. Treat these four characters as already redeemed and unavailable for another constellation from this event under its current one-redemption-per-character rule. This restriction does not apply to separate character selectors. Exact redemption dates and cycles were not reported; do not infer them. These are historical redemptions, not new acquisitions or changes to the current constellation values above.
+
 **Unknown:** individual builds/stats, signature names and refinements, Battle Pass weapon refinements, current resources, pity/guarantee and complete active teams. “Built/invested” is a reported profile, not proof of specific stat targets.
 
 **Notation / classification needs verification:** `Cryo Traveler C2` is preserved in the reported 5-star list; its element and classification were not verified. Names without confidently resolved public metadata must not be removed or assigned invented kits. `Mizuki` is preserved as used in the discussed team; confirm identity if the distinction matters.
@@ -40,6 +42,32 @@ Amber C2; Kaeya C3; Lisa C2; Razor C6; Xiangling C6; Xingqiu C6; Noelle C6; Barb
 - Skia C6.
 - Fadia A0.
 
+**Arc inventory — direct user report on 2026-10-14:** owns all 4-star Arcs, all free-to-play 5-star Arcs, all 5-star Battle Pass Arcs, and the signatures of Iroi, Blackbird and Zankou. **Default: one copy at R1 unless an exception is listed**, as explicitly requested. NTE catalogs label these rarities A-rank and S-rank, respectively; R1 preserves the user's refinement notation. This report confirms Iroi's Arc, not ownership or Awakening of Iroi herself. Weapon levels and assignments remain unknown.
+
+**Owned A-rank / 4-star Arcs — 16 names:**
+
+A Time Will Come; Call of the Twisted City; Clear Skies; Cosmos Daze, Wild Reverie; Drawn Blade; Failing You, Heavy in My Heart; Mind Royale; Oraora!; Shiny Days; The Fools' Spring; The Forgotten; The Good, The Bad, The Bitter; The Great Thief; Time Bandit; Umbrella; Watch Your Heads!.
+
+**Owned free-to-play S-rank / 5-star Arcs — 14 names:**
+
+Blow up the Crowd; Camellia Society; Contemplative Cat; Day Off; Eternal Waltz; Good Boy's Grand Adventure; Hethereau's Keeper; Raging Flames; Reality Refuge; Song of the Whale; Stellar Veil; Tears Beneath the Mask; Your Happiness is Priceless; Youthful Fantasy.
+
+Free-to-play here means obtainable through gameplay/rewards without spending or pulling a limited signature; it does not mean every Arc that can theoretically be pulled with free currency. Free character signatures already in this list are not additional copies.
+
+**Owned Battle Pass S-rank / 5-star Arcs — 5 names:**
+
+Fluff of Fearlessness; Fluff of Ferocity; Fluff of Finesse; Fluff of Fleetness; Fluff of Fortitude.
+
+**Owned limited signature S-rank / 5-star Arcs:**
+
+| Signature for | Arc |
+|---|---|
+| Iroi | The Wrong Gate |
+| Blackbird | Crime and Punishment |
+| Zankou | Ravenous Blade |
+
+**Catalog scope / sources:** 38 distinct owned Arc names enumerated from the user's category report. [Prydwen Arc directory](https://www.prydwen.gg/neverness-to-everness/arcs) (last updated 2026-09-30) supplies names/rarities, including 16 A-rank entries; [GameWith free S-rank guide](https://gamewith.net/nte/74403) (updated 2026-09-03) and [free Arc acquisition list](https://www.fdaytalk.com/all-free-s-rank-arcs-nte/) support the 14 gameplay/reward Arcs including Stellar Veil; [Icy Veins Battle Pass guide](https://www.icy-veins.com/neverness-to-everness/news/dont-choose-the-wrong-battle-pass-arc-in-neverness-to-everness/) identifies the five Fluff Arcs. Signature identities were cross-checked with [Blackbird's Prydwen guide](https://www.prydwen.gg/neverness-to-everness/characters/blackbird), [Iroi's guide](https://nte.wiki/guides/iroi-build-guide/) and [Zankou's guide](https://www.ntebuild.com/characters/zankou). Consulted **2026-10-14**; these are specialist/community sources, not an in-game inventory inspection or official certification of the current patch. Category enumeration reflects this report date and the available catalogs; later additions are not automatically owned. No other limited signature or paid-only Arc was inferred.
+
 **Discussed compositions (ownership not fully confirmed for every member):**
 
 - Zankou + Blackbird + Daffodil + Sakiri.
@@ -48,35 +76,23 @@ Amber C2; Kaeya C3; Lisa C2; Razor C6; Xiangling C6; Xingqiu C6; Noelle C6; Barb
 
 **Mechanics the user values:** Esper Cycle, Cycle Intensity, Blossom, Vita Buds, skill inputs, who triggers reactions, and team-specific Daffodil builds. Do not hardcode unverified mechanics.
 
-**Unknown:** complete roster; ownership of Daffodil, Sakiri, Haniel and Hathor; exact signature Arc names/refinements; builds/stats and resources. The two discussed compositions are separate analysis contexts: Blackbird and Daffodil may need different builds depending on their roles and verified interactions in each team.
+**Unknown:** complete roster; ownership of Iroi, Daffodil, Sakiri, Haniel and Hathor; Iroi's Awakening if owned; Arc levels/assignments and any additional weapons/copies beyond this report; character builds/stats, resources, content goals, pull budget and pity/guarantee. The two discussed compositions are separate analysis contexts: Blackbird and Daffodil may need different builds depending on their roles and verified interactions in each team.
 
 **Notation needs verification:** `Skia C6` differs from the A-notation used in the other reported NTE entries. Preserve it exactly; do not silently convert it to A6. Blackbird/Zankou names, pronouns and signature labels are user-reported and do not establish public kit metadata.
 
 ## Wuthering Waves (WuWa)
 
-**Weapon source / report date:** direct user reports and corrections in this WuWa Codex conversation on **2026-10-14**. The user owns all 4-star weapons, including both Battle Pass sets, and all 5-star weapons from both standard sets. Use **1x R1** by default wherever quantity or refinement was not specified, as explicitly instructed. Preserve explicitly reported copies and higher refinements. Current weapon levels are omitted at the user's request; evaluate all owned weapons at **level 90** for comparisons because the user can level them whenever needed. Ownership does not establish an associated character's ownership or current weapon assignment.
+**Weapon source / report date:** direct user reports and corrections in this WuWa Codex conversation on **2026-10-14**. The user owns all 4-star weapons, including both Battle Pass sets, and all 5-star weapons from both standard sets. **Default: one copy at R1 unless an exception is listed**, as explicitly instructed. Preserve explicitly reported copies and higher refinements. Current weapon levels are omitted at the user's request; evaluate all owned weapons at **level 90** for comparisons because the user can level them whenever needed. Ownership does not establish an associated character's ownership or current weapon assignment.
 
 **Owned 5-star weapons — original standard set (Winter Brume):**
 
-| Weapon | Copies / refinement |
-|---|---|
-| Lustrous Razor | 1x R1 |
-| Emerald of Genesis | 1x R1 |
-| Static Mist | 1x R1 |
-| Abyss Surges | 1x R1 |
-| Cosmic Ripples | 1x R1 |
+Lustrous Razor; Emerald of Genesis; Static Mist; Abyss Surges; Cosmic Ripples.
 
 **Owned 5-star weapons — new standard set (Synth Armament, version 3.0):**
 
-| Weapon | Copies / refinement |
-|---|---|
-| Laser Shearer | 1x R1 |
-| Radiance Cleaver | 1x R1 |
-| Phasic Homogenizer | 1x R1 |
-| Pulsation Bracer | 1x R1 |
-| Boson Astrolabe | 1x R1 |
+Laser Shearer; Radiance Cleaver; Phasic Homogenizer; Pulsation Bracer; Boson Astrolabe.
 
-**Other owned 5-star weapons — each 1x R1:**
+**Other owned 5-star weapons:**
 
 Luminous Hymm; Glint of Clouds; Frostburn; Defier's Thorn; Bloodpact's Pledge; Verdant Summit.
 
@@ -86,61 +102,15 @@ Names from the initial report remain as supplied. `Luminous Hymm` is preserved; 
 
 **Battle Pass — original set:**
 
-| Weapon | Copies / refinement |
-|---|---|
-| Autumntrace | 1x R1 |
-| Lumingloss | 1x R1 |
-| Thunderbolt | 1x R1 |
-| Stonard | 1x R1 |
-| Augment | 2x R1 |
+Autumntrace; Lumingloss; Thunderbolt; Stonard; Augment (2x R1).
 
 **Battle Pass — Hunter's Growl (version 2.6):**
 
-| Weapon | Copies / refinement |
-|---|---|
-| Aureate Zenith | 1x R1 |
-| Feather Edge | 1x R1 |
-| Solar Flame | 1x R1 |
-| Aether Strike | 1x R1 |
-| Radiant Dawn | 1x R1 |
+Aureate Zenith; Feather Edge; Solar Flame; Aether Strike; Radiant Dawn.
 
 **Other 4-star weapons:**
 
-| Weapon | Copies / refinement |
-|---|---|
-| Amity Accord | 1x R1 |
-| Broadblade#41 | 1x R1 |
-| Cadenza | 1x R5 |
-| Call of the Abyss | 1x R1 |
-| Celestial Spiral | 1x R1 |
-| Comet Flare | 1x R1 |
-| Commando of Conviction | 1x R5 |
-| Dauntless Evernight | 1x R1 |
-| Discord | 1x R3 + 1x R1 |
-| Endless Collapse | 1x R1 |
-| Fables of Wisdom | 1x R1 |
-| Fusion Accretion | 1x R1 |
-| Gauntlets#21D | 1x R1 |
-| Helios Cleaver | 1x R1 |
-| Hollow Mirage | 1x R1 |
-| Jinzhou Keeper | 1x R1 |
-| Legend of Drunken Hero | 1x R1 |
-| Lunar Cutter | 1x R1 |
-| Marcato | 1x R1 |
-| Meditations on Mercy | 1x R1 |
-| Novaburst | 1x R5 |
-| Ocean's Gift | 1x R1 |
-| Overture | 1x R3 |
-| Pistols#26 | 1x R1 |
-| Rectifier#25 | 1x R1 |
-| Relativistic Jet | 1x R1 |
-| Romance in Farewell | 1x R1 |
-| Somnoire Anchor | 1x R5 |
-| Sword#18 | 1x R1 |
-| Undying Flame | 1x R1 |
-| Variation | 3x R1 |
-| Waltz in Masquerade | 1x R1 |
-| Waning Redshift | 1x R5 |
+Amity Accord; Broadblade#41; Cadenza (1x R5); Call of the Abyss; Celestial Spiral; Comet Flare; Commando of Conviction (1x R5); Dauntless Evernight; Discord (1x R3 + 1x R1); Endless Collapse; Fables of Wisdom; Fusion Accretion; Gauntlets#21D; Helios Cleaver; Hollow Mirage; Jinzhou Keeper; Legend of Drunken Hero; Lunar Cutter; Marcato; Meditations on Mercy; Novaburst (1x R5); Ocean's Gift; Overture (1x R3); Pistols#26; Rectifier#25; Relativistic Jet; Romance in Farewell; Somnoire Anchor (1x R5); Sword#18; Undying Flame; Variation (3x R1); Waltz in Masquerade; Waning Redshift (1x R5).
 
 **Catalog sources:** [Prydwen weapon directory](https://www.prydwen.gg/wuthering-waves/weapons) (page displays 2026-10-05; 43 distinct 4-star names), [Prydwen Pioneer Podcast](https://www.prydwen.gg/wuthering-waves/guides/battle-pass-weapons) (both Battle Pass sets), [Prydwen gacha guide](https://www.prydwen.gg/wuthering-waves/guides/gacha/) (standard pool), [official version 2.6 notes](https://wutheringwaves.kurogames.com/en/main/news/detail/3194) (Hunter's Growl) and [official version 3.0 maintenance notice](https://wutheringwaves.kurogames.com/en/main/news/detail/3800) (Synth Armament). Consulted **2026-10-14** for catalog names/sets, not private ownership, optimality or certification of the current game patch. The directory's extracted weapon-type field repeats Pistols across entries; it was not used to classify weapon types. Catalog expansion reflects this report date and does not automatically establish ownership of later releases.
 
@@ -181,22 +151,3 @@ Pan Yinhu M6; Soukaku M6; Nicole M6; Pulchra M6; Seth M6; Lucy M6; Anby M6; Pipe
 **Metadata sources:** [Prydwen — Agent directory](https://www.prydwen.gg/zenless/characters/), with individual profiles for [Remielle](https://www.prydwen.gg/zenless/characters/remielle), [Norma](https://www.prydwen.gg/zenless/characters/norma), [Manato](https://www.prydwen.gg/zenless/characters/manato), [Pan Yinhu](https://www.prydwen.gg/zenless/characters/pan-yinhu) and [Lucia](https://www.prydwen.gg/zenless/characters/lucia); [official version 2.6 report](https://zenless.hoyoverse.com/en-us/news/162441) identifies Sunna/Aria as S-rank. Consulted 2026-10-12 for identity/rarity support only, not ownership, builds or release status. Presence in a directory alone does not certify release status.
 
 **Unknown:** W-Engine ownership/refinements (including signatures), Bangboo, levels, skills, Drive Discs/stats, investment, teams, resources and pity/guarantee. An owned Agent must not automatically be treated as built. This roster does not establish that every unlisted Agent is unowned.
-
-## Update protocol
-
-When the user reports a new acquisition, dupe, weapon or permanent team:
-
-1. Change only the relevant game and field.
-2. Preserve unrelated user-reported information. Apply explicit corrections to the affected field; do not keep a superseded value as current.
-3. Keep a short note with report date, user-reported provenance, affected field and previous value when correcting it. Do not invent original report dates or chat references.
-4. If only drafting an update in chat, label it as proposed text; do not claim a persistent source was edited. Update the local file and the uploaded Project source separately, manually.
-
-## Review log
-
-- 2026-10-14 — Explicit follow-up correction in this WuWa Codex conversation: removed current weapon-level fields as irrelevant to the requested comparisons; applied the user's default 1x R1 wherever count/refinement was unspecified. Preserved 2x Augment R1, 3x Variation R1, Discord 1x R3 + 1x R1 and all higher refinements. All owned weapons are evaluated at level 90. This supersedes the earlier preference to retain current-level fields and unspecified copy counts.
-- 2026-10-14 — Direct user clarification in this WuWa Codex conversation: the user can level weapons whenever needed. Added a level-90 baseline for all owned weapon comparisons, retaining actual reported levels separately. Simplified unspecified copy-count labels; at least one copy is owned, with extra copies checked only when simultaneous assignments depend on them.
-- 2026-10-14 — Follow-up direct user update in this WuWa Codex conversation: expanded the aggregate all-4-star ownership statement into 43 catalog names, including both Battle Pass sets; user requested R1 for unspecified refinements and confirmed ownership of both complete 5-star standard sets at R1 unless previously specified. Added six standard weapons to the previous ten named 5-star weapons (16 distinct owned 5-star names total). Preserved all previously reported level-90 entries, explicit refinements and duplicate copies; newly enumerated levels and unspecified copy counts remain unknown. Catalog sources and consultation date are recorded in the WuWa section.
-- 2026-10-14 — Direct user update in this WuWa Codex conversation: recorded 10 user-reported 5-star weapons and 14 separate 4-star weapon copies at level 90, retaining explicit refinements and applying R1 only to listed weapons without a specified refinement. Recorded ownership of all 4-star weapons, including Battle Pass weapons, with remaining levels/refinements/copy counts unknown. Previously, weapon ownership was unspecified. Preserved discussed characters, Echo inventory and all other game sections.
-- 2026-10-12 — Documentation review of the supplied snapshot: retained every roster entry, constellation/dupe, ownership classification, composition and the 157 level-zero Echoes. Added provenance limits, explicit unknowns and unresolved notation flags. No new acquisition or live account verification was recorded.
-- 2026-10-12 — Direct user update in this Codex conversation: replaced unknown ZZZ roster with 47 user-reported owned Agents, applying the requested M0 to 34 S-rank Agents and M6 to 13 A-rank Agents. Kept user display names and distinguished Anby variants and Lúcia/Lucy. No W-Engine, build, team or resource ownership was inferred.
-- 2026-10-12 — Direct user update in this Codex conversation: replaced unknown HSR roster with 72 user-reported owned character entries, retaining every supplied name and Eidolon. Flagged unspecified Trailblazer/March 7th forms and kept separately named variants distinct. No Light Cone, build, team, resource or release status was inferred.

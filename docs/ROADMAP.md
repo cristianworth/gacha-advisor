@@ -1,48 +1,20 @@
 # Gacha Advisor — próximos passos
 
-Proposta inicial em 2026-10-12; organização e pesquisa atualizadas em **2026-10-13**. A base documental e a Skill já estão no repositório público [cristianworth/gacha-advisor](https://github.com/cristianworth/gacha-advisor). Os passos abaixo são sugestões; não representam dados de conta confirmados nem funcionalidades implementadas.
+Atualizado em **2026-10-14**. Estas são prioridades condicionais, não tarefas obrigatórias nem funcionalidades implementadas.
 
-## Sugestão para começar
+## Conforme a próxima decisão
 
-**Completar o contexto do jogo que você estiver jogando ou planejando pulls agora.** Escolha dois ou três times usados e registre as armas/signatures, dupes/refinamentos, investimento atual e o objetivo da próxima decisão. Não é necessário cadastrar todas as builds dos cinco jogos antes de obter recomendações úteis.
+| Necessidade | Próximo passo |
+|---|---|
+| Build, time ou rotação | Informar o time usado ou pretendido, conteúdo-alvo e peças/stats relevantes. Separar posse de composição discutida. |
+| Pull ou investimento | Informar objetivo, orçamento, pity/garantia e alternativas possuídas que mudem a decisão. |
+| Regra de equipamento incerta | Verificar a regra com fonte datada quando ela afetar a recomendação; atualizar a referência. |
+| Resposta incorreta | Corrigir a causa nos dados ou instruções e usar um [caso de qualidade](quality-checks.md) pertinente, se útil. |
 
-HSR e ZZZ já têm rosters extensas registradas, mas equipamentos e builds continuam desconhecidos. Em WuWa, ainda falta uma roster confirmada para avaliar substitutos e valor de pulls. A escolha do primeiro jogo fica com sua necessidade atual; o snapshot não estabelece qual é seu favorito.
+Não é necessário cadastrar todas as builds nem revisar todos os jogos a cada patch. Os dados e desconhecidos atuais ficam somente em [account-snapshots.md](../advisor/account-snapshots.md); as regras e ressalvas ficam em [equipment-stat-reference.md](../advisor/equipment-stat-reference.md). Evite duplicar inventários ou contagens neste roadmap.
 
-Depois de registrar os dados, use uma pergunta real — por exemplo, qual melhoria priorizar em um time — para descobrir se ainda falta alguma informação. Atualize o Projeto ChatGPT quando quiser usar esse contexto lá. Também pode pedir a recomendação diretamente ao Codex neste repositório.
+## Pesquisa preservada
 
-## Ordem proposta
+A [proposta de importação HoYoLAB](hoyolab-import.md) contém evidências e próximos passos ainda úteis. Não houve consulta autenticada da conta nem implementação de importador. A implementação exige uma tarefa própria; a pesquisa não é uma pendência para usar o Advisor.
 
-| Prioridade | Melhoria | Resultado concreto | Quando fazer |
-|---|---|---|---|
-| 1 | Completar o contexto da conta aos poucos | Snapshot com armas/signatures, refinamentos, times usados, investimento e objetivo do jogo escolhido | Antes de uma decisão que dependa desses dados |
-| 2 | Registrar contexto dos times | Separar time usado, time pretendido e composição apenas discutida; informar conteúdo-alvo e limitações relevantes | Ao pedir build, rotação ou troca de integrante |
-| 3 | Resolver regras de equipamento ainda incertas | Referência corrigida com fonte, data e versão identificada quando disponível | Quando a regra afetar a escolha de uma peça ou gasto de recursos |
-| 4 | Refinar as instruções a partir de erros reais | Correção curta que trate a causa de uma resposta errada sem ampliar desnecessariamente o prompt | Quando uma resposta inventar dados, confundir variantes ou recomendar stats ilegais |
-| 5 | Registrar prioridades de investimento e pulls | Snapshot com metas, alternativas possuídas e orçamento informado pelo usuário | Antes de decidir entre personagem, signature, dupe ou melhoria de build |
-| 6 | Reavaliar a organização dos documentos | Divisão por jogo somente se o arquivo atual ficar difícil de manter ou consultar | Se aparecer um problema concreto de manutenção ou consulta |
-
-As primeiras duas prioridades podem ser feitas juntas, com os dados disponíveis. Não dependem de pesquisa completa de todos os personagens nem de preencher cada campo do snapshot.
-
-## Lacunas já identificadas
-
-- **HSR:** Light Cones, refinamentos, builds e times usados; forma específica dos registros de Trailblazer e March 7th quando relevante. Preservar variantes e Eidolons já informados.
-- **ZZZ:** W-Engines, refinamentos, Drive Discs e times usados. Preservar a regra relatada de S-rank M0 e A-rank M6 para os 47 Agents registrados; novas aquisições precisam de confirmação própria.
-- **WuWa:** roster e armas possuídas, time atual e recursos relevantes para pulls. Os 157 Echoes nível zero não permitem inferir substats.
-- **Genshin:** armas individuais/refinamentos e builds dos times escolhidos; esclarecer as notações pendentes somente quando necessário, sem substituir o relato original.
-- **NTE:** distinguir membros possuídos de composições discutidas; confirmar `Skia C6` antes de converter a notação. Verificar regras de Arc/Console e de Main Stats/substats em Modules quando afetarem uma recomendação.
-- **Referência WuWa:** confirmar regras atuais de Data Modify/reroll antes de recomendar o uso desses recursos.
-
-## Como manter sem transformar isso em outra tarefa
-
-1. Informe uma aquisição, mudança de investimento ou objetivo quando achar relevante. O Codex atualiza apenas os campos afetados no documento adequado, preservando origem e dados anteriores ainda válidos.
-2. Se uma pergunta depender de mecânica atual, pesquise essa mecânica e registre a fonte na referência. Não é necessário revisar todos os jogos a cada patch.
-3. Versione as alterações desejadas no Git. O README explica quais arquivos atualizar manualmente no Projeto ChatGPT; enviar ao GitHub não atualiza o Projeto.
-4. Use o [checklist opcional](quality-checks.md) somente se quiser investigar um erro ou conferir uma mudança importante. Não há rotina obrigatória de testes no ChatGPT nem necessidade de comparar interfaces.
-
-`docs/ROADMAP.md`, `AGENTS.md` e a Skill são documentos de manutenção. No Projeto ChatGPT, continue colando o conteúdo de `advisor/gacha-game-advisor.md` nas instruções e enviando `advisor/equipment-stat-reference.md` + `advisor/account-snapshots.md` como fontes. Os nomes das fontes enviadas permanecem sem o prefixo `advisor/`.
-
-## Ideias adiadas
-
-O usuário iniciou a discussão de uma importação HoYoLAB sob demanda. A [pesquisa e proposta](hoyolab-import.md) agora registra o reaproveitamento possível da autenticação usada no Auto-Checkin, começando por ZZZ. Ainda faltam uma consulta autenticada válida e a conferência dos dados retornados antes de implementar qualquer importador.
-
-Sincronização automática com o ChatGPT, MCP, chatbot próprio, APIs próprias, backend, frontend, banco de dados e aplicação Python continuam adiados. Uma futura função de importação sob demanda poderá alimentar o snapshot; a arquitetura documental e o envio manual ao Projeto permanecem.
+A base atual continua documental. Reorganização por jogo e ferramentas adicionais só precisam ser avaliadas quando resolverem um problema concreto. Consulte o [README](../README.md) para instalação e atualização manual do Projeto ChatGPT.
