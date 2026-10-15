@@ -138,9 +138,11 @@ Trailblazer E6; Robin • Summeretto E0; Himeko • Nova E0; Mortenax Blade E0; 
 
 **Source / report date:** roster of 47 owned Agents supplied directly by the user in this Codex conversation on **2026-10-12**. The user explicitly instructed: consider every listed 4-star as **M6** and every listed 5-star as **M0**. ZZZ uses **A-rank** and **S-rank**, respectively. These Mindscape levels are the user's account instruction, not a public database claim. This rule applies to this supplied roster; do not apply it automatically to future acquisitions.
 
-**Owned S-rank / 5-star Agents — M0 (34):**
+**Mindscape update / report date:** direct user report in this ZZZ Codex conversation on **2026-10-15**: Lucia M1 (listed as Lúcia below), Astra Yao M1, Yanagi M1, Koleda M4, Rina M1, Lycaon M5 and Grace M2. These explicit values supersede the initial M0 instruction only for these seven Agents; other entries remain unchanged.
 
-Remielle M0; Norma M0; Velina M0; Promeia M0; Nangong Yu M0; Aria M0; Sunna M0; Dialyn M0; Lúcia M0; Ye Shunguang M0; Yuzuha M0; Alice M0; Ju Fufu M0; Soldado N.º0 - Anby M0; Yixuan M0; Trigger M0; Zhao M0; Vivian M0; Evelyn M0; Astra Yao M0; Jane M0; Zhu Yuan M0; Yanagi M0; Burnice M0; Koleda M0; Miyabi M0; Nekomata M0; Rina M0; Harumasa M0; Ellen M0; Lycaon M0; N.º 11 M0; Grace M0; Caesar M0.
+**Owned S-rank / 5-star Agents — reported Mindscapes (34):**
+
+Remielle M0; Norma M0; Velina M0; Promeia M0; Nangong Yu M0; Aria M0; Sunna M0; Dialyn M0; Lúcia M1; Ye Shunguang M0; Yuzuha M0; Alice M0; Ju Fufu M0; Soldado N.º0 - Anby M0; Yixuan M0; Trigger M0; Zhao M0; Vivian M0; Evelyn M0; Astra Yao M1; Jane M0; Zhu Yuan M0; Yanagi M1; Burnice M0; Koleda M4; Miyabi M0; Nekomata M0; Rina M1; Harumasa M0; Ellen M0; Lycaon M5; N.º 11 M0; Grace M2; Caesar M0.
 
 **Owned A-rank / 4-star Agents — M6 (13):**
 
@@ -150,4 +152,28 @@ Pan Yinhu M6; Soukaku M6; Nicole M6; Pulchra M6; Seth M6; Lucy M6; Anby M6; Pipe
 
 **Metadata sources:** [Prydwen — Agent directory](https://www.prydwen.gg/zenless/characters/), with individual profiles for [Remielle](https://www.prydwen.gg/zenless/characters/remielle), [Norma](https://www.prydwen.gg/zenless/characters/norma), [Manato](https://www.prydwen.gg/zenless/characters/manato), [Pan Yinhu](https://www.prydwen.gg/zenless/characters/pan-yinhu) and [Lucia](https://www.prydwen.gg/zenless/characters/lucia); [official version 2.6 report](https://zenless.hoyoverse.com/en-us/news/162441) identifies Sunna/Aria as S-rank. Consulted 2026-10-12 for identity/rarity support only, not ownership, builds or release status. Presence in a directory alone does not certify release status.
 
-**Unknown:** W-Engine ownership/refinements (including signatures), Bangboo, levels, skills, Drive Discs/stats, investment, teams, resources and pity/guarantee. An owned Agent must not automatically be treated as built. This roster does not establish that every unlisted Agent is unowned.
+**Weapon source / report date:** direct user report in this ZZZ Codex conversation on **2026-10-15**: owns all A-rank / 4-star W-Engines, including Battle Pass, event and craftable options, plus the eleven S-rank signatures listed below. Copies, enhancement phases/refinements, levels and current assignments were not specified; do not assume S1 or S5. Ownership of a signature does not establish that its Agent currently equips it. The user's phrase “5-star limited signatures” included standard signatures; preserve all eleven as owned without classifying them all as limited.
+
+**Owned A-rank / 4-star W-Engines — 38 catalog names:**
+
+Bashful Demon; Big Cylinder; Bloodmarrow Coffer; Boisterous Echoes; Box Cutter; Bunny Band; Cannon Rotor; Catty Luck; Cauldron of Clarity; Demara Battery Mark II; Drill Rig - Red Axis; Electro-Lip Gloss; Gilded Blossom; Grill O'Wisp; Housekeeper; Iris Enigma; Kaboom the Cannon; Marcato Desire; Original Transmorpher; Peacekeeper - Specialized; Precious Fossilized Core; Puzzle Sphere; Radiowave Journey; Rainforest Gourmet; Reel Projector; Roaring Ride; Six Shooter; Slice of Time; Spring Embrace; Starlight Engine; Starlight Engine Replica; Steam Oven; Street Superstar; The Simmering Pot; The Vault; Tremor Trigram Vessel; Unfettered Game Ball; Weeping Gemini.
+
+**Owned S-rank / 5-star signature W-Engines:**
+
+| Signature for (snapshot label) | W-Engine |
+|---|---|
+| Nekomata | Steel Cushion |
+| N.º 11 (Soldier 11) | The Brimstone |
+| Lycaon | The Restrained |
+| Koleda | Hellfire Gears |
+| Rina | Weeping Cradle |
+| Astra Yao | Elegant Vanity |
+| Lúcia (Lucia) | Dreamlit Hearth |
+| Yixuan | Qingming Birdcage |
+| Miyabi | Hailstorm Shrine |
+| Remielle | Ode of Resurrected Wings |
+| Evelyn | Heartstring Nocturne |
+
+**Weapon catalog / identity sources:** [Prydwen W-Engine directory](https://www.prydwen.gg/zenless/w-engines), displaying **2026-10-10**, supplied the 38 A-rank names and S-rank spellings. Signature identities checked against the Agent guides for [Nekomata](https://www.prydwen.gg/zenless/characters/nekomata), [Soldier 11](https://www.prydwen.gg/zenless/characters/soldier-11), [Lycaon](https://www.prydwen.gg/zenless/characters/lycaon), [Koleda](https://www.prydwen.gg/zenless/characters/koleda), [Rina](https://www.prydwen.gg/zenless/characters/rina), [Astra Yao](https://www.prydwen.gg/zenless/characters/astra-yao), [Lucia](https://www.prydwen.gg/zenless/characters/lucia), [Yixuan](https://www.prydwen.gg/zenless/characters/yixuan), [Miyabi](https://www.prydwen.gg/zenless/characters/miyabi), [Remielle](https://www.prydwen.gg/zenless/characters/remielle) and [Evelyn](https://www.prydwen.gg/zenless/characters/evelyn). Consulted **2026-10-15** for names/identity, not optimality or private inventory. These are specialist sources; the current game patch and individual release status were not independently certified. The category report is dated: later A-rank additions are not automatically owned. Other S-rank W-Engines remain unknown.
+
+**Unknown:** W-Engine copies/enhancement phases, levels and assignments; additional S-rank W-Engines; Bangboo, Agent levels, skills, Drive Discs/stats, investment, teams, resources, content goals/preferences, pull budget and pity/guarantee. An owned Agent must not automatically be treated as built. This roster does not establish that every unlisted Agent is unowned.
