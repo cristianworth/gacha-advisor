@@ -171,21 +171,35 @@ individual builds/stats, signature names and refinements, Battle Pass weapon ref
 
 #### Owned / explicitly reported
 
-- Blackbird A0, with her signature Arc.
+**Source / report date:** current roster of 19 owned characters supplied directly by the user in this NTE Codex conversation on **2026-10-16**. Awakening levels and signature ownership below are user-reported account facts, not public kit verification. This updates the previous five-character roster and resolves previously unknown ownership of Iroi, Daffodill, Sakiri, Haniel and Hathor.
+
 - Zankou A0, with her signature Arc.
-- Edgar A6.
-- Skia C6.
+- Daffodill A0.
+- Sakiri A0.
+- Iroi A0, with her signature Arc.
+- Hotori A0.
+- Zero / Esper Zero A4.
+- Jiuyuan A0.
+- Nanally A0.
+- Blackbird A0, with her signature Arc.
+- Hathor A1.
 - Fadia A0.
+- Baicang A1.
+- Chiz A4.
+- Haniel A6.
+- Adler A6.
+- Aurelia A6.
+- Edgar A6.
+- Mint A6.
+- Skia A6.
 
-#### Notation needs verification
-
-`Skia C6` differs from the A-notation used in the other reported NTE entries. Preserve it exactly; do not silently convert it to A6. Blackbird/Zankou names, pronouns and signature labels are user-reported and do not establish public kit metadata.
+**Names / correction:** `Zero` and `Esper Zero` refer to the same reported character. Use the latest supplied spelling `Daffodill`; earlier discussions used `Daffodil`, not a separate owned entry. The user's explicit **2026-10-16** report corrects the previous `Skia C6` to **Skia A6**. Preserve the other reported names and Awakenings.
 
 ### Equipment
 
 #### Arc inventory — direct user report on 2026-10-14
 
-owns all 4-star Arcs, all free-to-play 5-star Arcs, all 5-star Battle Pass Arcs, and the signatures of Iroi, Blackbird and Zankou. **Default: one copy at R1 unless an exception is listed**, as explicitly requested. NTE catalogs label these rarities A-rank and S-rank, respectively; R1 preserves the user's refinement notation. This report confirms Iroi's Arc, not ownership or Awakening of Iroi herself. Weapon levels and assignments remain unknown.
+owns all 4-star Arcs, all free-to-play 5-star Arcs, all 5-star Battle Pass Arcs, and the signatures of Iroi, Blackbird and Zankou. **Default: one copy at R1 unless an exception is listed**, as explicitly requested. NTE catalogs label these rarities A-rank and S-rank, respectively; R1 preserves the user's refinement notation. Character ownership and Awakenings were subsequently updated on 2026-10-16 in the Characters section. Weapon levels and assignments remain unknown.
 
 #### Owned A-rank / 4-star Arcs — 16 names
 
@@ -243,11 +257,18 @@ Free-to-play here means obtainable through gameplay/rewards without spending or 
 
 ### Teams and preferences
 
-#### Discussed compositions (ownership not fully confirmed for every member)
+#### Current main teams — direct user report on 2026-10-16
 
-- Zankou + Blackbird + Daffodil + Sakiri.
-- Blackbird + Sakiri + Daffodil + Haniel.
-- Hathor was considered in discussions involving Blackbird.
+- Zankou + Daffodill + Sakiri + Haniel.
+- Nanally + Hotori + Zero + Iroi.
+- Blackbird + Daffodill + Sakiri + Haniel.
+
+These are the user's current main teams, not proposed compositions. Daffodill, Sakiri and Haniel are shared between the Zankou and Blackbird teams; their appearance in both does not imply duplicate characters or simultaneous availability in separate teams.
+
+#### Previously discussed composition
+
+- Zankou + Blackbird + Daffodill + Sakiri was discussed previously; it is not listed as a current main team in the latest report.
+- Hathor was previously considered in discussions involving Blackbird; no current team assignment for Hathor was reported.
 
 #### Mechanics the user values
 
@@ -261,7 +282,7 @@ Esper Cycle, Cycle Intensity, Blossom, Vita Buds, skill inputs, who triggers rea
 
 ### Unknown
 
-complete roster; ownership of Iroi, Daffodil, Sakiri, Haniel and Hathor; Iroi's Awakening if owned; Arc levels/assignments and any additional weapons/copies beyond this report; character builds/stats, resources, content goals, pull budget and pity/guarantee. The two discussed compositions are separate analysis contexts: Blackbird and Daffodil may need different builds depending on their roles and verified interactions in each team.
+Character levels, skills, builds/stats, Arc levels/assignments, additional weapons/copies beyond the recorded inventory, resources, content goals, pull budget and pity/guarantee. The roster records the 19 supplied entries; an unlisted character is not automatically unowned. Current teams share members, so builds and rotations must be evaluated for each composition rather than assumed interchangeable.
 
 ## Wuthering Waves (WuWa)
 
