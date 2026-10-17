@@ -30,7 +30,7 @@ Snapshot compiled: 2026-10-12. **Source:** account details previously stated by 
 
 #### Account profile
 
-long-established endgame account; all listed characters reported as built/invested. User has all Battle Pass weapons and some signature weapons; specific signature ownership is not enumerated. Priorities are optimization, team synergy and account-wide value instead of beginner advice.
+long-established endgame account; all listed characters reported as built/invested. User reports owning all Battle Pass weapons; confirmed 5-star weapon ownership is listed below. Priorities are optimization, team synergy and account-wide value instead of beginner advice.
 
 ### Characters
 
@@ -149,6 +149,37 @@ long-established endgame account; all listed characters reported as built/invest
 
 `Cryo Traveler C2` is preserved in the reported 5-star list; its element and classification were not verified. Names without confidently resolved public metadata must not be removed or assigned invented kits. `Mizuki` is preserved as used in the discussed team; confirm identity if the distinction matters.
 
+### Equipment
+
+#### Owned 5-star weapons
+
+**Provenance:** weapon ownership supplied directly by the user in this Genshin Codex conversation and reconciled with `genshinData_GOOD_2026_10_15_11_13.json` (GOOD v2, Inventory_Kamera). On **2026-10-16**, the user explicitly confirmed ownership of Reliquary of Truth, A Thousand Blazing Suns, Azurelight and Exaiphanes Blade despite their absence from that export, also confirmed Skyward Blade, and confirmed the export's two-copy entries. Missing export entries do not override these ownership reports. Copy counts and refinements below come from the export where available; they remain unknown for the four omitted weapons. No default copy count or R1 is inferred for Genshin.
+
+The signature association identifies the weapon, not its current wielder or ownership of that character. Export levels and assignments are dated observations, not permanently fixed builds; neither is tracked in this compact inventory.
+
+| Weapon | Signature association | Copies recorded | Refinement per copy |
+|---|---|---|---|
+| Aqua Simulacra | Yelan | 1 | R1 |
+| Reliquary of Truth | Nefer | Unknown | Unknown |
+| A Thousand Floating Dreams | Nahida | 1 | R1 |
+| Staff of Homa | Hu Tao | 1 | R1 |
+| A Thousand Blazing Suns | Mavuika | Unknown | Unknown |
+| Azurelight | Skirk | Unknown | Unknown |
+| Peak Patrol Song | Xilonen | 1 | R1 |
+| Absolution | Clorinde | 1 | R1 |
+| Uraku Misugiri | Chiori | 1 | R1 |
+| Elegy for the End | — | 2 | R1, R1 |
+| Skyward Harp | — | 2 | R1, R1 |
+| Skyward Atlas | — | 2 | R1, R1 |
+| Skyward Spine | — | 2 | R1, R1 |
+| Wolf's Gravestone | — | 1 | R1 |
+| Skyward Pride | — | 2 | R1, R1 |
+| Exaiphanes Blade | — | Unknown | Unknown |
+| Amos' Bow | — | 1 | R1 |
+| Skyward Blade | — | 1 | R1 |
+
+**Name verification:** [KQM — Nefer](https://keqingmains.com/q/nefer-quickguide/), [Mavuika](https://keqingmains.com/q/mavuika-quickguide/) and [Skirk](https://keqingmains.com/q/skirk-quickguide/), consulted **2026-10-16** for signature names only. Ownership remains user-reported, not established by public guides.
+
 ### Teams and preferences
 
 #### Discussed team context, not necessarily a locked team
@@ -163,7 +194,7 @@ the user directly confirmed on **2026-10-14** in this Codex conversation that **
 
 ### Unknown
 
-individual builds/stats, signature names and refinements, Battle Pass weapon refinements, current resources, pity/guarantee and complete active teams. “Built/invested” is a reported profile, not proof of specific stat targets.
+individual builds/stats, current weapon levels and assignments, copy counts/refinements for the four owned weapons omitted from the export, unlisted weapons and Battle Pass weapon refinements, current resources, pity/guarantee and complete active teams. “Built/invested” is a reported profile, not proof of specific stat targets.
 
 ## Neverness to Everness (NTE)
 
