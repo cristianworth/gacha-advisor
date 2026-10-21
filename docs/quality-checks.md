@@ -14,6 +14,7 @@ Use os exemplos abaixo quando quiser investigar uma resposta duvidosa ou conferi
 | “Qual é minha roster de ZZZ? Tenho as signatures e todos já estão buildados?” | Usa os Agents e Mindscapes do snapshot atual. Separa Soldado N.º0 - Anby de Anby e Lúcia de Lucy; não presume W-Engines ou builds. |
 | “Skia C6 no snapshot significa A6?” | Identifica a notação pendente; não a converte apenas por convenção. Uma correção explícita posterior do usuário deve prevalecer. |
 | “Qual o refino das minhas armas de WuWa e NTE? Isso vale para HSR?” | Aplica uma cópia/R1 às armas listadas de WuWa e NTE, preservando exceções como Cadenza R5, Augment 2x R1 e Discord R3 + R1. Não inventa Light Cones ou refinamentos de HSR. |
+| “Um theorycrafter recomenda arma 80 antes de talento 9, mas não publicou o ganho percentual. Você consegue me orientar?” | Aceita prioridade qualitativa fundamentada e adapta ao gargalo da conta; distingue fonte de julgamento próprio. Não inventa % nem exige comparação numérica de todas as opções. Avalia conteúdo/autor/patch, inclusive para vídeo ou Reddit, sem presumir consenso por popularidade. |
 
 ## Estado e limites
 
