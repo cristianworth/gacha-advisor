@@ -228,6 +228,34 @@ individual builds/stats, current weapon levels and assignments, copy counts/refi
 
 **Names / correction:** `Zero` and `Esper Zero` refer to the same reported character. Use the latest supplied spelling `Daffodill`; earlier discussions used `Daffodil`, not a separate owned entry. The user's explicit **2026-10-16** report corrects the previous `Skia C6` to **Skia A6**. Preserve the other reported names and Awakenings.
 
+### Skill investment — direct user report on 2026-10-21
+
+Order: **Basic Attack / Redirect Skill / Ultimate / QTE (Support Skill)**. The user explicitly confirmed these are **purchased levels, excluding Resonance bonuses**. Do not subtract a bonus or record suggested upgrades as completed. Effective levels must add only the bonuses that apply to that particular ability.
+
+| Character | Basic Attack | Skill | Ultimate | QTE | User's investment category |
+|---|---:|---:|---:|---:|---|
+| Zankou | 8 | 8 | 8 | 6 | DPS |
+| Blackbird | 8 | 6 | 9 | 6 | DPS |
+| Hotori | 1 | 8 | 9 | 1 | DPS / burst |
+| Nanally | 8 | 8 | 8 | 2 | DPS |
+| Zero / Esper Zero | 1 | 8 | 8 | 1 | Sub-DPS |
+| Jiuyuan | 6 | 8 | 8 | 1 | Sub-DPS |
+| Daffodill | 6 | 8 | 8 | 1 | Sub-DPS |
+| Haniel | 1 | 8 | 8 | 1 | Buffer |
+| Sakiri | 1 | 6 | 8 | 1 | Buffer |
+| Iroi | 1 | 8 | 8 | 1 | Support |
+
+**Preference:** maximize team damage per resource spent, rather than maxing every ability. The user raises selected carry QTEs through inexpensive early levels and wants to compare those investments with late core-skill upgrades. Character categories above describe the user's approach, not universal skill priorities. Character/Arc levels, stats, passive unlocks, material stocks and actual QTE frequency were not supplied.
+
+#### Investment research / provisional upgrade order — 2026-10-21
+
+- **Important skill mapping:** Daffodill's Phantom Step multiplier appears under Basic Attack, separate from her ordinary Support Skill. Do not assume QTE levels strengthen every swap attack. Hotori's katana attacks during Time Stop appear under Ultimate; BA1 does not imply those attacks use a level-1 multiplier. [GameWith Daffodill data, dated 2026-06-05](https://gamewith.ai/nte/en/character/daffodill), [GameWith Hotori data, dated 2026-06-05](https://gamewith.ai/nte/en/character/hotori). These older tables require in-game confirmation if the patch changes.
+- **Cost reference, not stamina valuation:** the public [Zankou ability-material table](https://www.ntebuild.com/characters/zankou) lists 1→6 at 77,000 Beetle Coins, 10 low-tier + 5 mid-tier materials in each of the skill/enemy families, without weekly materials; 6→8 totals 140,000 coins and two weekly items; 8→9 costs 100,000 coins, five top-tier items in each family and two weekly items. [Hotori's table](https://www.ntebuild.com/characters/hotori) and [GameWith Hotori](https://gamewith.ai/nte/en/character/hotori) agree on the coin progression. Names of required materials vary by character. Some cached search results disagree with retrieved pages; do not certify the current patch or apply inferred farming rates. Nanally 2→6 omits the first 2,000-coin step, giving 75,000 coins on this table.
+- **Provisional top five, not calculated team-DPS ROI:** (1) Blackbird Skill 6→8, addressing a core enhanced attack and off-field damage source; (2) Daffodill BA 6→8 for Phantom Steps used in both Scorch/Nova; (3) Nanally QTE 2→6; (4) Hotori QTE 1→6; (5) Zero QTE 1→6. The last three are cheap catch-up candidates only when their QTEs actually occur often and deal meaningful damage; their relative order is not established without stats and rotation counts. Zero's QTE level does not directly increase Blossom damage. If QTEs are infrequent, prioritize Zankou's main damage skills instead. Stop after each proposed stage and reassess; these levels have NOT been purchased by the user.
+- **Kit evidence / limits:** [Blackbird's patch-1.4 guide](https://www.prydwen.gg/neverness-to-everness/characters/blackbird) prioritizes Basic/Skill before Ultimate/QTE; Skill includes coordinated attacks and Flames of Deliverance. [Zero](https://www.prydwen.gg/neverness-to-everness/characters/zero) ranks Support before BA. [Jiuyuan](https://www.prydwen.gg/neverness-to-everness/characters/jiuyuan) places Support last; its fixed utility should not be confused with scaling her attachments/bud generation. [Nanally's QTE](https://gamewith.ai/nte/en/character/nanally) is a direct attack, separate from Blossom Enhancement. Preserve the existing support core investment; Haniel's skill/ultimate and Iroi's support functions need marginal buff-coefficient checks before assuming another level improves all buffs. QTE levels do not automatically improve separately unlocked passives.
+
+**ROI method / uncertainty:** compare extra damage over the same team rotation divided by the extra farm cost, including coins, skill materials, enemy materials and weekly gates. For an isolated direct hit, the relevant change is its new/old multiplier minus one, weighted by its share of team damage; effects on buffs, procs and uptime require separate accounting. No current full level-by-level multiplier matrix, controlled rotation damage distribution or personal farming/drop data was verified, so no exact % team gain or stamina-optimal ranking is claimed. Passive unlocks should be checked before optional direct-hit upgrades.
+
 ### Equipment
 
 #### Arc inventory — direct user report on 2026-10-14
@@ -300,7 +328,7 @@ Free-to-play here means obtainable through gameplay/rewards without spending or 
 
 These supersede the main-team list reported on 2026-10-16. The latest message's `Dafdoddil` refers to the same Daffodill already recorded, not an additional character.
 
-**Allocation / experience:** the user currently chooses between Zankou's and Blackbird's teams because they share Sakiri and Daffodill. Zankou + Blackbird together have not yet been tried by the user. Blossom and Scorch share Iroi; the user uses Jiuyuan in Blossom in that case. The user considers that swap a small downgrade; this is a personal assessment, not a measured comparison. Characters outside these reported team options are not well built, partly because the user had deprioritized their lower Prydwen tier placements. No specific levels or stats were supplied.
+**Allocation / experience:** the user currently chooses between Zankou's and Blackbird's teams because they share Sakiri and Daffodill. Zankou + Blackbird together have not yet been tried by the user. Blossom and Scorch share Iroi; the user uses Jiuyuan in Blossom in that case. The user considers that swap a small downgrade; this is a personal assessment, not a measured comparison. Characters outside these reported team options are not well built, partly because the user had deprioritized their lower Prydwen tier placements. Purchased skill levels were subsequently reported in the Skill investment section; exact character levels and stats remain unknown.
 
 #### Research for this account — 2026-10-21
 
@@ -326,7 +354,7 @@ Esper Cycle, Cycle Intensity, Blossom, Vita Buds, skill inputs, who triggers rea
 
 ### Unknown
 
-Sakiri A1 selected effect; exact character levels, skills, builds/stats and investment gaps; Arc levels/assignments, additional weapons/copies beyond the recorded inventory, resources, content goals, pull budget and pity/guarantee. The roster records the 19 supplied entries; an unlisted character is not automatically unowned. Current teams share members, so builds and rotations must be evaluated for each composition rather than assumed interchangeable.
+Sakiri A1 selected effect; exact character levels, passive unlocks, builds/stats, rotation/QTE frequency and remaining investment gaps; Arc levels/assignments, additional weapons/copies beyond the recorded inventory, resources, content goals, pull budget and pity/guarantee. The roster records the 19 supplied entries; an unlisted character is not automatically unowned. Current teams share members, so builds and rotations must be evaluated for each composition rather than assumed interchangeable.
 
 ## Wuthering Waves (WuWa)
 
