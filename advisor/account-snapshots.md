@@ -206,7 +206,7 @@ individual builds/stats, current weapon levels and assignments, copy counts/refi
 
 - Zankou A0, with her signature Arc.
 - Daffodill A0.
-- Sakiri A0.
+- Sakiri A1.
 - Iroi A0, with her signature Arc.
 - Hotori A0.
 - Zero / Esper Zero A4.
@@ -223,6 +223,8 @@ individual builds/stats, current weapon levels and assignments, copy counts/refi
 - Edgar A6.
 - Mint A6.
 - Skia A6.
+
+**Account update — 2026-10-21:** the user directly confirmed acquisition of Sakiri A1, superseding A0. The selected Awakening effect was not specified; the earlier recommendation of Wishful Reliance is not confirmation that it is active.
 
 **Names / correction:** `Zero` and `Esper Zero` refer to the same reported character. Use the latest supplied spelling `Daffodill`; earlier discussions used `Daffodil`, not a separate owned entry. The user's explicit **2026-10-16** report corrects the previous `Skia C6` to **Skia A6**. Preserve the other reported names and Awakenings.
 
@@ -288,18 +290,29 @@ Free-to-play here means obtainable through gameplay/rewards without spending or 
 
 ### Teams and preferences
 
-#### Current main teams — direct user report on 2026-10-16
+#### Current main teams — direct user report on 2026-10-21
 
-- Zankou + Daffodill + Sakiri + Haniel.
-- Nanally + Hotori + Zero + Iroi.
-- Blackbird + Daffodill + Sakiri + Haniel.
+| Team label supplied by user | Current lineup | Reported substitution |
+|---|---|---|
+| Blossom | Hotori + Zero + Iroi + Nanally | Jiuyuan replaces Iroi when Iroi is assigned elsewhere. |
+| Scorch | Zankou + Daffodill + Sakiri + Iroi | No additional substitution confirmed. |
+| Nova | Haniel + Sakiri + Blackbird + Daffodill | No additional substitution confirmed. |
 
-These are the user's current main teams, not proposed compositions. Daffodill, Sakiri and Haniel are shared between the Zankou and Blackbird teams; their appearance in both does not imply duplicate characters or simultaneous availability in separate teams.
+These supersede the main-team list reported on 2026-10-16. The latest message's `Dafdoddil` refers to the same Daffodill already recorded, not an additional character.
 
-#### Previously discussed composition
+**Allocation / experience:** the user currently chooses between Zankou's and Blackbird's teams because they share Sakiri and Daffodill. Zankou + Blackbird together have not yet been tried by the user. Blossom and Scorch share Iroi; the user uses Jiuyuan in Blossom in that case. The user considers that swap a small downgrade; this is a personal assessment, not a measured comparison. Characters outside these reported team options are not well built, partly because the user had deprioritized their lower Prydwen tier placements. No specific levels or stats were supplied.
 
-- Zankou + Blackbird + Daffodill + Sakiri was discussed previously; it is not listed as a current main team in the latest report.
-- Hathor was previously considered in discussions involving Blackbird; no current team assignment for Hathor was reported.
+#### Research for this account — 2026-10-21
+
+**Scope:** specialist guides, not live account testing or official confirmation of the current patch. Blackbird's Prydwen review identifies patch 1.4 (2026-09-30); Zankou's identifies 1.3 (2026-09-13). Several support guides retain patch-1 calculations. The following are evidence-backed options and account-specific inferences, not newly adopted teams or quantified DPS rankings.
+
+- **Combining Zankou and Blackbird:** Blackbird supplies off-field coordinated attacks and instant Cycle access. Her guide describes persistent Scorch from Zankou enabling Nova to trigger Discord, with Daffodill improving Break access. **Account inference:** test Zankou + Blackbird + Daffodill + Sakiri, keeping Blackbird's field time short around Zankou's windows. The guide's illustrated quartet uses Linko, whose ownership is not reported; using Sakiri instead is an adaptation, not a validated equivalent. This option drops Iroi's sustain and Hexed access; Iroi instead of Sakiri is a defensive alternative to test, not a confirmed improvement. [Blackbird — patch 1.4](https://www.prydwen.gg/neverness-to-everness/characters/blackbird).
+- **Zankou A0 rotation constraint:** swapping out during Illusion loses its buff; do not assume Blackbird's ability to pause her own transformation makes Zankou equally swap-friendly. Preserve Zankou's damage windows. The reported Zankou/Daffodill/Sakiri/Iroi team also matches the guide's Hyper composition. [Zankou — patch 1.3](https://www.prydwen.gg/neverness-to-everness/characters/zankou).
+- **Iroi vs Jiuyuan in Blossom:** Iroi offers healing, ATK support, DEF Ignore, copied buds and an additional damage buff through the owned signature. Jiuyuan supplies extra buds, a higher bud cap, attachment damage and grouping; she is A0 here, so her Awakening-dependent healing cannot be assumed. Both Hotori/Zero/Nanally variants are documented. **Conclusion:** Jiuyuan is a legitimate Blossom specialist; neither a universal downgrade nor a reliably small loss is established for this account. Compare clear time and survival, accounting for Iroi's signature and actual investment. [Iroi](https://www.prydwen.gg/neverness-to-everness/characters/iroi), [Jiuyuan](https://www.prydwen.gg/neverness-to-everness/characters/jiuyuan), [Icy Veins Hotori teams — 2026-07-31](https://www.icy-veins.com/neverness-to-everness/hotori-teams), [Mobalytics Blossom — 2026-06-12](https://mobalytics.gg/neverness-to-everness/teams/hotori-nanally-blossom-team).
+- **First additional investment candidate: Adler A6.** Shields, Scorch debuffs (random, not guaranteed RES reduction) and an Incantation damage bonus while shielded give a purpose beyond tier rank. **Account proposal:** Zankou + Daffodill + Sakiri + Adler can free Iroi for Blossom while retaining protection, but loses Iroi's healing, Hexed and signature buff. [Adler — updated 2026-09-07](https://www.prydwen.gg/neverness-to-everness/characters/adler).
+- **Secondary situational candidates:** Hathor A1 or Skia A6 can introduce Lakshana for a Blackbird Stain variant; test one in Haniel's slot alongside Blackbird/Daffodill/Sakiri, accepting the lost Haniel A6 buffs. Hathor needs field time; this is a different archetype, not an automatic Nova upgrade. Fadia A0 is a defensive Psyche option when surviving matters, not a priority for a higher damage ceiling. [Hathor — 2026-06-23](https://www.prydwen.gg/neverness-to-everness/characters/hathor), [Skia — 2026-06-23](https://www.prydwen.gg/neverness-to-everness/characters/skia), [Fadia — 2026-09-07](https://www.prydwen.gg/neverness-to-everness/characters/fadia).
+
+**Practical priority / inference:** optimize the existing cores and Jiuyuan's substitute build first; build Adler only if his allocation/defensive role solves an actual problem. Baicang A1, Chiz A4, Aurelia A6, Edgar A6 and Mint A6 need no new investment merely to fill a roster: no demonstrated gap in the reported teams currently justifies replacing their main cores. This is an account-priority assessment, not a claim that these characters lack useful teams.
 
 #### Mechanics the user values
 
@@ -313,7 +326,7 @@ Esper Cycle, Cycle Intensity, Blossom, Vita Buds, skill inputs, who triggers rea
 
 ### Unknown
 
-Character levels, skills, builds/stats, Arc levels/assignments, additional weapons/copies beyond the recorded inventory, resources, content goals, pull budget and pity/guarantee. The roster records the 19 supplied entries; an unlisted character is not automatically unowned. Current teams share members, so builds and rotations must be evaluated for each composition rather than assumed interchangeable.
+Sakiri A1 selected effect; exact character levels, skills, builds/stats and investment gaps; Arc levels/assignments, additional weapons/copies beyond the recorded inventory, resources, content goals, pull budget and pity/guarantee. The roster records the 19 supplied entries; an unlisted character is not automatically unowned. Current teams share members, so builds and rotations must be evaluated for each composition rather than assumed interchangeable.
 
 ## Wuthering Waves (WuWa)
 
