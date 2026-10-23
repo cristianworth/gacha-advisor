@@ -395,13 +395,14 @@ Sakiri A1 selected effect; exact character levels, passive unlocks, builds/stats
 
 #### Character source / report date
 
-roster of 55 owned character entries supplied directly by the user in this WuWa Codex conversation on **2026-10-15**, followed by an explicit clarification of four Rover forms on the same date (58 entries when forms are listed separately). Names and the user's character notation **R0–R6** are preserved exactly; these character ranks are separate from weapon refinements. Ownership is user-reported, not proof of builds or public kit metadata.
+roster of 55 owned character entries supplied directly by the user in this WuWa Codex conversation on **2026-10-15**, followed by an explicit clarification of four Rover forms on the same date (58 entries when forms are listed separately). On **2026-10-23**, the user directly reported **Buling S6** (previously R5) and acquisition of **Suoming S0**, bringing the roster to 59 entries including separate Rover forms. Preserve the original R0–R6 notation for unchanged entries and the newer S6/S0 notation for these two updates; character ranks are separate from weapon refinements. Ownership is user-reported, not proof of builds or public kit metadata. Suoming's signature weapon was not reported as acquired.
 
 #### Owned characters (reported rank)
 
 | Character | Reported rank |
 |---|---|
 | Hsin | R0 |
+| Suoming | S0 |
 | Jiyan | R0 |
 | Yuanwu | R6 |
 | Calcharo | R4 |
@@ -441,7 +442,7 @@ roster of 55 owned character entries supplied directly by the user in this WuWa 
 | Galbrena | R0 |
 | Qiuyuan | R0 |
 | Chisa | R0 |
-| Buling | R5 |
+| Buling | S6 |
 | Lynae | R0 |
 | Mornye | R0 |
 | Aemeath | R0 |
@@ -462,11 +463,11 @@ roster of 55 owned character entries supplied directly by the user in this WuWa 
 
 #### Forms / identity
 
-keep Yangyang R6 separate from Yangyang: Xuanling R0; do not share their ranks. The user explicitly clarified on **2026-10-15**: **Rover Spectro R6; Rover Havoc R6; Rover Aero R6; Rover Electro R1**. These replace the previously ambiguous Rover R6 entry; keep ranks separate for each form. Electro is confirmed owned/unlocked at R1, not R6. Suoming remains discussed, with ownership unconfirmed.
+keep Yangyang R6 separate from Yangyang: Xuanling R0; do not share their ranks. The user explicitly clarified on **2026-10-15**: **Rover Spectro R6; Rover Havoc R6; Rover Aero R6; Rover Electro R1**. These replace the previously ambiguous Rover R6 entry; keep ranks separate for each form. Electro is confirmed owned/unlocked at R1, not R6. Suoming is confirmed owned at S0 by the 2026-10-23 report.
 
 #### Roster scope
 
-the supplied roster records 58 owned entries when the four reported Rover forms are listed separately. Unlisted characters are not automatically unowned; ask only when that distinction changes a recommendation.
+the updated roster records 59 owned entries when the four reported Rover forms are listed separately. Unlisted characters are not automatically unowned; ask only when that distinction changes a recommendation.
 
 ### Equipment
 
@@ -568,7 +569,7 @@ Names from the initial report remain as supplied. `Luminous Hymm` is preserved; 
 
 #### Discussed compositions, not confirmed as active teams
 
-Yangyang + Chisa + Suisui; Hsin and Suoming as a potential investment pair. Yangyang, Chisa, Suisui and Hsin are now confirmed owned by the roster report above; this does not confirm the compositions as used or establish Suoming ownership.
+Yangyang + Chisa + Suisui; Hsin and Suoming as a potential investment pair. All named characters are confirmed owned by the reports above; this does not confirm these compositions as active teams.
 
 ### Sources
 
@@ -578,7 +579,7 @@ Yangyang + Chisa + Suisui; Hsin and Suoming as a potential investment pair. Yang
 
 ### Unknown
 
-Suoming ownership/rank, additional weapons/copies beyond the reported inventory, current weapon assignments except Hsin's reported signature, active teams, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Proposed Hsin teams are recommendations, not confirmed active teams.
+Suoming's signature weapon ownership, additional weapons/copies beyond the reported inventory, current weapon assignments except Hsin's reported signature, active teams, current builds, Echo rarities/sets, exact counts per cost/Main Stat, available EXP/tuners, pull budget and pity/guarantee. “Ideal Main Stats” is the user's inventory description, not verified suitability for every character. “Limited 1-cost ATK%” does not mean none. Proposed Hsin teams are recommendations, not confirmed active teams.
 
 ## Honkai: Star Rail (HSR)
 
