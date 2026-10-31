@@ -60,6 +60,7 @@ long-established endgame account; all listed characters reported as built/invest
 | Furina | C0 |
 | Xianyun | C0 |
 | Navia | C0 |
+| Chiori | C0 |
 | Arlecchino | C2 |
 | Clorinde | C0 |
 | Emilie | C0 |
@@ -87,9 +88,11 @@ long-established endgame account; all listed characters reported as built/invest
 | Jean | C6 |
 | Keqing | C1 |
 | Mona | C4 |
-| Qiqi | C4 |
+| Qiqi | C6 |
 | Dehya | C0 |
 | Cryo Traveler | C2 |
+
+**Ownership update — 2026-10-31:** the user directly confirmed Chiori C0 and Qiqi C6 in this Genshin Codex conversation. Added Chiori as owned and replaced the previous Qiqi C4 with C6. Character levels, talents and the exact acquisition/redemption sources were not explicitly reported; no new build or event-redemption history is inferred.
 
 #### Owned 4-star characters (reported constellation)
 
