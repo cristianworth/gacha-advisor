@@ -30,7 +30,7 @@ Snapshot compiled: 2026-10-12. **Source:** account details previously stated by 
 
 #### Account profile
 
-long-established endgame account; all listed characters reported as built/invested. User reports owning all Battle Pass weapons; confirmed 5-star weapon ownership is listed below. Priorities are optimization, team synergy and account-wide value instead of beginner advice.
+long-established endgame account; all listed characters reported as built/invested. User reports owning all pre-Snezhnaya Battle Pass weapons; ownership of the new Snezhnaya set is specified below. Confirmed 5-star weapon ownership is listed below. Priorities are optimization, team synergy and account-wide value instead of beginner advice.
 
 ### Characters
 
@@ -182,6 +182,20 @@ The signature association identifies the weapon, not its current wielder or owne
 | Skyward Blade | — | 1 | R1 |
 
 **Name verification:** [KQM — Nefer](https://keqingmains.com/q/nefer-quickguide/), [Mavuika](https://keqingmains.com/q/mavuika-quickguide/) and [Skirk](https://keqingmains.com/q/skirk-quickguide/), consulted **2026-10-16** for signature names only. Ownership remains user-reported, not established by public guides.
+
+#### Snezhnaya Battle Pass weapons
+
+**Source — direct user reports on 2026-10-31:** the user clarified that the five new Snezhnaya Battle Pass weapons were the only Battle Pass weapons not owned, then explicitly confirmed acquiring **Jade Vista**. This narrows the earlier broad report of owning all Battle Pass weapons to the pre-Snezhnaya sets and the acquisition below. No refinement, level, equipped character or exact copy count was reported for Jade Vista.
+
+| Weapon | Ownership |
+|---|---|
+| Jade Vista | Owned; acquisition confirmed 2026-10-31 |
+| Clash of Kings | Not owned as of the category clarification |
+| Forged by the Golden Melody | Not owned as of the category clarification |
+| Frostbreath | Not owned as of the category clarification |
+| Heretic's Molten Blade | Not owned as of the category clarification |
+
+Weapon names/set membership: [KQM — Snezhnaya Battle Pass overview](https://keqingmains.com/misc/snezhnaya/), consulted **2026-10-31**. Ownership is user-reported; future acquisitions require a new confirmation.
 
 ### Teams and preferences
 
