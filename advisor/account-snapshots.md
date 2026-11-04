@@ -133,7 +133,7 @@ long-established endgame account; all listed characters reported as built/invest
 | Kirara | C3 |
 | Yaoyao | C6 |
 | Faruzan | C6 |
-| Charlotte | C1 |
+| Charlotte | C2 |
 | Gaming | C6 |
 | Sethos | C6 |
 | Kachina | C6 |
@@ -147,6 +147,9 @@ long-established endgame account; all listed characters reported as built/invest
 | Prune | C2 |
 | Aino | C4 |
 | Alyosha | C3 |
+| Valeriy | C0 |
+
+**Ownership confirmation — 2026-11-04:** direct user report in this Genshin Codex conversation confirms Charlotte C2 and newly owned Valeriy C0. Their levels, talents, builds, weapons and acquisition sources were not reported.
 
 #### Notation / classification needs verification
 
