@@ -6,7 +6,7 @@ Base de conhecimento para recomendações de **Genshin Impact, Wuthering Waves, 
 
 O Advisor combina instruções de resposta, regras de equipamentos e fatos da conta para avaliar builds, times, rotações e pulls. Os documentos versionados são o contexto durável; uma conversa serve para discutir a decisão e informar mudanças.
 
-Você pode usar o Codex neste repositório ou o Projeto ChatGPT **`gacha`**. A configuração atual é documental, com uma Skill de manutenção. Não há aplicativo, servidor ou sincronização automática. A importação autenticada do HoYoLAB está [em estudo](docs/hoyolab-import.md), ainda sem implementação ou teste autenticado da conta.
+Você pode usar o Codex neste repositório ou o Projeto ChatGPT **`gacha`**. A configuração é documental, com Skills de manutenção, builds e prévia de versões no Codex. Não há aplicativo, servidor ou sincronização automática. A importação autenticada do HoYoLAB está [em estudo](docs/hoyolab-import.md), ainda sem implementação ou teste autenticado da conta.
 
 ## Divisão dos chats
 
@@ -44,10 +44,13 @@ gacha-advisor/
 │   ├── ROADMAP.md
 │   ├── quality-checks.md
 │   └── hoyolab-import.md
-└── .agents/skills/gacha-advisor/SKILL.md
+└── .agents/skills/
+    ├── build/SKILL.md
+    ├── gacha-advisor/SKILL.md
+    └── meta-preview/SKILL.md
 ```
 
-A raiz contém os pontos de entrada. `advisor/` reúne os arquivos usados nas recomendações e na instalação do Projeto; `docs/` reúne manutenção e planejamento. A Skill mantém o caminho necessário à descoberta pelo Codex.
+A raiz contém os pontos de entrada. `advisor/` reúne os arquivos usados nas recomendações e na instalação do Projeto; `docs/` reúne manutenção e planejamento. O Codex descobre as Skills em `.agents/skills/`.
 
 ## Responsabilidade dos documentos
 
@@ -58,6 +61,8 @@ A raiz contém os pontos de entrada. `advisor/` reúne os arquivos usados nas re
 | [account-snapshots.md](advisor/account-snapshots.md) | Roster, dupes, equipamentos, times e desconhecidos, separados por jogo | Fonte do Projeto |
 | [AGENTS.md](AGENTS.md) | Regras para trabalhar neste repositório | Codex |
 | [Skill gacha-advisor](.agents/skills/gacha-advisor/SKILL.md) | Workflow de manutenção e revisão | Codex |
+| [Skill build](.agents/skills/build/SKILL.md) | Ordem de upgrades, equipamento e time em formato curto | Codex |
+| [Skill meta-preview](.agents/skills/meta-preview/SKILL.md) | Próxima versão, banners, reruns e prioridade de pulls para a conta | Codex |
 | [ROADMAP.md](docs/ROADMAP.md) | Prioridades propostas | Manutenção |
 | [docs/quality-checks.md](docs/quality-checks.md) | Exemplos opcionais para investigar respostas erradas | Manutenção |
 | [docs/hoyolab-import.md](docs/hoyolab-import.md) | Evidências, limites e proposta de importação HoYoLAB | Manutenção |
@@ -71,7 +76,7 @@ As regras de equipamentos e os snapshots já têm seções por jogo. Mantenha um
 3. Em **Fontes do projeto**, adicione os arquivos `advisor/equipment-stat-reference.md` e `advisor/account-snapshots.md`. No Projeto, mantenha os nomes dos arquivos sem o prefixo da pasta.
 4. Ao atualizar as instruções, cole novamente. Ao atualizar uma fonte, remova a versão anterior da lista de fontes e envie o arquivo atual. Confira que ficou apenas uma cópia de cada: enviar outro arquivo com o mesmo nome pode adicionar uma segunda versão.
 
-Envie somente esses três documentos, nos destinos acima. README, AGENTS, Skill e o conteúdo de `docs/` orientam manutenção e não precisam ser enviados.
+Envie somente esses três documentos, nos destinos acima.
 
 **Alterar arquivos ou enviar commits ao GitHub não atualiza o Projeto ChatGPT.** Você escolhe quando atualizar suas cópias. O [checklist](docs/quality-checks.md) é opcional; não exige testes recorrentes nem comparação entre Codex e ChatGPT.
 
@@ -83,16 +88,31 @@ Os arquivos **`account-snapshots.md` e `equipment-stat-reference.md` são fontes
 
 A separação permanece: comportamento nas instruções; regras e dados detalhados nas duas fontes. Limites do produto podem mudar; consulte os links ao enfrentar um erro de upload ou de tamanho. Não use limites da API ou de GPTs personalizados como limites de Projetos ChatGPT.
 
-## Usar a Skill no Codex
+## Usar as Skills no Codex
 
-A Skill está em `.agents/skills/gacha-advisor/SKILL.md`. Abra o repositório e peça:
+Abra o repositório no Codex. Para uma build, informe o personagem e, se quiser, o time ou outra restrição. A resposta começa pela ordem de upgrades. Peça a rotação detalhada quando quiser os inputs completos.
+
+```text
+$build Akane Rin
+$build Akane Rin com Zero, mantendo Sakiri no time do Zankou
+```
+
+A Skill usa o jogo do chat quando ele já estiver definido e consulta os dados da conta. Inclua o jogo se o personagem for ambíguo.
+
+Para ver os banners da próxima versão e decidir em quem vale gastar, use `$meta-preview` no chat do jogo ou indique o jogo no pedido.
+
+```text
+$meta-preview NTE
+```
+
+Para manutenção ou revisão dos documentos, use `$gacha-advisor`.
 
 ```text
 Use $gacha-advisor para revisar os documentos e atualizar os dados de ZZZ
 que eu informar. Preserve as outras seções e mostre o diff.
 ```
 
-A Skill orienta manutenção e revisão; não executa automaticamente no Projeto ChatGPT. Veja a [documentação oficial de Skills](https://learn.chatgpt.com/docs/build-skills), consultada em 2026-10-13.
+No Projeto ChatGPT `gacha`, peça a build em linguagem natural usando as fontes do Projeto. [Documentação oficial de Skills](https://learn.chatgpt.com/docs/build-skills)
 
 ## Manutenção
 
