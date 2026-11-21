@@ -35,6 +35,16 @@ Read-only investigation and planning of HoYoLAB imports are allowed; see `docs/h
 - For gameplay advice in Codex, read `advisor/gacha-game-advisor.md` and the relevant game's account/equipment sections. Recommendation discussions do not require reorganizing the repository.
 - Record explicit account updates only in the affected game section, with provenance. Distinguish a proposed team/build from what the user actually uses. Avoid concurrent edits to the same file across chats.
 
+## GitHub contribution workflow
+
+- Use an issue when work needs tracking; reuse an existing issue instead of duplicating it. The proposals in `docs/ROADMAP.md` remain conditional, not a mandatory backlog.
+- Work on a short-lived branch from the updated remote default branch, `origin/main`. Preserve unrelated local commits, staged changes and files.
+- Describe the problem, resulting behavior, validation and limitations in the PR, linking the issue when there is one. Keep the PR in draft while review or validation is pending; track current delivery status in the issue/PR.
+- Review the diff and applicable checks for the current head SHA. Pending checks or evidence for another SHA do not validate that head. When no CI applies, explicitly record the documentary checks performed and their limits.
+- Integrate only after Cristian approves the reviewed diff and authorizes integration. If the content changes, renew review, applicable checks and approval before integration. Direct pushes to `main` require explicit authorization.
+- This workflow grants no standing permission for commits, pushes, integration or publication beyond the current request. Continue routine implementation decisions within the already authorized scope without requesting approval for each step.
+- Git commits, pushes and merges do not update the ChatGPT Project. Refreshing its instructions or sources is a separate manual publication step, requiring authorization; follow `README.md` when requested.
+
 ## Delivery checks
 
 - `advisor/gacha-game-advisor.md` length < 8,000 characters, including whitespace. No 8,000-character check for `account-snapshots.md` or `equipment-stat-reference.md`.
